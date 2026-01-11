@@ -1,0 +1,197 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #333;
+}
+
+/* Sticky header */
+.sticky-header {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    border-bottom: 2px solid #ddd;
+    z-index: 100;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.header-container h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #007BFF;
+}
+
+/* Main container */
+.main-container {
+    display: flex;
+    height: calc(100vh - 70px); /* full viewport minus header */
+    position: relative;
+}
+
+/* Image section */
+.image-section {
+    flex: 3;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.gradient-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.login-block {
+    flex: 1;
+    background-color: #fff;
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: center;
+    box-shadow: -2px 0 15px rgba(0,0,0,0.1);
+    border-radius: 40px;
+
+}
+
+.login-block h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login-block form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-block label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.login-block input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+}
+
+.login-block button {
+    padding: 10px;
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.login-block button:hover {
+    background-color: #0056b3;
+}
+
+/* About page container */
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.main-container {
+    display: flex;
+    min-height: calc(100vh - 70px);
+}
+
+.login-block {
+    margin: auto 40px;
+}
+
+/* Dashboard background */
+.dashboard-container {
+    background-color: #f5f5f5; /* light gray background */
+    min-height: 100vh;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header sticky */
+.sticky-header {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Session card container */
+#sessions-list {
+    width: 80%;
+    max-width: 800px;
+    margin-top: 2rem;
+}
+
+/* Each session card */
+.session-card {
+    background-color: #ffffff;
+    border-radius: 40px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Separate sessions by a subtle line (bottom border) */
+.session-card:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Session text */
+.session-card p {
+    margin: 0.2rem 0;
+    font-size: 1rem;
+}
+
+/* Graph image */
+.session-graph {
+    margin-top: 1rem;
+    width: 90%;
+    max-width: 400px;
+    height: auto;
+    cursor: pointer;
+    border-radius: 15px;
+    transition: transform 0.2s;
+}
+
+.session-graph:hover {
+    transform: scale(1.05);
+}

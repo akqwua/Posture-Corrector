@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Posture Session Graph</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    canvas { max-width: 900px; margin: 30px 0; }
+    select { font-size: 16px; padding: 4px; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+
+<h1>Posture Session Viewer</h1>
+
+<label for="sessionSelect">Select session:</label>
+<select id="sessionSelect"></select>
+
+<canvas id="postureChart"></canvas>
+
+<script>
+const sessionSelect = document.getElementById('sessionSelect');
+const ctx = document.getElementById('postureChart').getContext('2d');
+let chart = null;
+
+// --- Step 1: Fetch all sessions ---
+async function fetchSessions() {
+  const res = await fetch('http://127.0.0.1:8000/sessions?user_id=1');
+  const json = await res.json();
+  return json.sessions;
+}
+
+// --- Step 2: Populate dropdown ---
+async function populateSessions() {
+  const sessions = await fetchSessions();
+  sessionSelect.innerHTML = '';
+  
+  sessions.forEach(s => {
+    const option = document.createElement('option');
+    option.value = s.id;
+    option.text = `Session ${s.id}: ${new Date(s.start_time).toLocaleString()}`;
+    sessionSelect.appendChild(option);
+  });
+
+  if (sessions.length > 0) {
+    plotSession(sessions[0]);
+  }
+}
+
+// --- Step 3: Plot a session ---
+function plotSession(session) {
+  const points = session.data;
+  if (!points || points.length === 0) {
+    alert("No data points for this session yet!");
+    if (chart) chart.destroy();
+    return;
+  }
+
+  // Convert timestamps to local time strings
+  const labels = points.map(p => new Date(p.timestamp * 1000).toLocaleTimeString());
+  const upperData = points.map(p => p.upper);
+  const pelvisData = points.map(p => p.pelvis);
+  const curvatureData = points.map(p => p.curvature);
+
+  const data = {
+    labels: labels,
+    datasets: [
+      { label: 'Upper (deg)', data: upperData, borderColor: 'blue', backgroundColor: 'transparent' },
+      { label: 'Pelvis (deg)', data: pelvisData, borderColor: 'green', backgroundColor: 'transparent' },
+      { label: 'Curvature (deg)', data: curvatureData, borderColor: 'red', backgroundColor: 'transparent' }
+    ]
+  };
+
+  const config = {
+    type: 'line',
+    data: data,
+    options: {
+      responsive: true,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { position: 'top' }, title: { display: true, text: 'Posture Angles Over Time' } },
+      scales: {
+        x: { display: true, title: { display: true, text: 'Time' } },
+        y: { display: true, title: { display: true, text: 'Degrees' } }
+      }
+    }
+  };
+
+  if (chart) chart.destroy();
+  chart = new Chart(ctx, config);
+}
+
+// --- Step 4: Update graph when session changes ---
+sessionSelect.addEventListener('change', async () => {
+  const sessions = await fetchSessions();
+  const selected = sessions.find(s => s.id == sessionSelect.value);
+  if (selected) plotSession(selected);
+});
+
+// --- Initialize ---
+populateSessions();
+</script>
+
+</body>
+</html>

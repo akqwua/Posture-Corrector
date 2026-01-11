@@ -1,0 +1,1767 @@
+{
+  "user_id": 1,
+  "session_start": 1768156821.43637,
+  "session_end": 1768156833.228462,
+  "data": [
+    {
+      "timestamp": 1768128021.4403446,
+      "upper": 1.3,
+      "pelvis": 0.1,
+      "curvature": 1.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.4900374,
+      "upper": -0.7,
+      "pelvis": 0.2,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.5466752,
+      "upper": -0.6,
+      "pelvis": -0.4,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.6000347,
+      "upper": 0.7,
+      "pelvis": 0.0,
+      "curvature": 0.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.6536007,
+      "upper": -0.2,
+      "pelvis": -0.1,
+      "curvature": -0.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.7067206,
+      "upper": -1.4,
+      "pelvis": -0.5,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.760064,
+      "upper": -0.7,
+      "pelvis": 0.1,
+      "curvature": -0.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.8134906,
+      "upper": -0.7,
+      "pelvis": 0.4,
+      "curvature": -1.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.8666475,
+      "upper": -1.0,
+      "pelvis": -0.0,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.9197984,
+      "upper": -0.7,
+      "pelvis": -0.9,
+      "curvature": 0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128021.9733138,
+      "upper": -0.7,
+      "pelvis": 0.2,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.02665,
+      "upper": -0.9,
+      "pelvis": -0.1,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.079968,
+      "upper": -1.2,
+      "pelvis": 0.3,
+      "curvature": -1.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.133647,
+      "upper": -0.2,
+      "pelvis": -0.0,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.189692,
+      "upper": -0.5,
+      "pelvis": -0.5,
+      "curvature": -0.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.2431438,
+      "upper": -0.8,
+      "pelvis": 0.0,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.2966955,
+      "upper": -0.6,
+      "pelvis": 0.0,
+      "curvature": -0.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.350003,
+      "upper": -0.3,
+      "pelvis": -0.6,
+      "curvature": 0.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.4029868,
+      "upper": -0.0,
+      "pelvis": -0.1,
+      "curvature": 0.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.4563036,
+      "upper": -0.1,
+      "pelvis": -0.3,
+      "curvature": 0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.509616,
+      "upper": -0.7,
+      "pelvis": 0.0,
+      "curvature": -0.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.563141,
+      "upper": -0.8,
+      "pelvis": -0.0,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.6162639,
+      "upper": -0.5,
+      "pelvis": 0.1,
+      "curvature": -0.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.6696906,
+      "upper": -0.5,
+      "pelvis": -0.3,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.7232847,
+      "upper": -1.3,
+      "pelvis": -0.1,
+      "curvature": -1.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.7761066,
+      "upper": -0.4,
+      "pelvis": -0.2,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.832741,
+      "upper": -0.2,
+      "pelvis": 0.0,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.8860042,
+      "upper": -0.4,
+      "pelvis": -0.3,
+      "curvature": -0.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.9394095,
+      "upper": -0.5,
+      "pelvis": -0.1,
+      "curvature": -0.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128022.9926515,
+      "upper": -0.7,
+      "pelvis": 0.1,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.0460782,
+      "upper": -1.0,
+      "pelvis": -0.2,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.0993397,
+      "upper": -0.5,
+      "pelvis": -0.3,
+      "curvature": -0.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.152997,
+      "upper": -1.0,
+      "pelvis": -0.3,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.2060301,
+      "upper": -1.3,
+      "pelvis": 0.4,
+      "curvature": -1.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.260383,
+      "upper": -1.2,
+      "pelvis": -0.2,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.312832,
+      "upper": -0.5,
+      "pelvis": -0.0,
+      "curvature": -0.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.3660088,
+      "upper": -0.2,
+      "pelvis": -0.1,
+      "curvature": -0.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.4201431,
+      "upper": -1.1,
+      "pelvis": -0.3,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.4757824,
+      "upper": -1.1,
+      "pelvis": -0.0,
+      "curvature": -1.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.529661,
+      "upper": -0.8,
+      "pelvis": -0.5,
+      "curvature": -0.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.5824337,
+      "upper": -1.1,
+      "pelvis": -0.3,
+      "curvature": -0.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.6358457,
+      "upper": -1.7,
+      "pelvis": 0.3,
+      "curvature": -1.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.6891174,
+      "upper": -2.2,
+      "pelvis": 0.4,
+      "curvature": -2.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.7424386,
+      "upper": -1.8,
+      "pelvis": -0.2,
+      "curvature": -1.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.795873,
+      "upper": -1.2,
+      "pelvis": -0.0,
+      "curvature": -1.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.8490932,
+      "upper": -2.8,
+      "pelvis": -0.1,
+      "curvature": -2.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.9025424,
+      "upper": -1.5,
+      "pelvis": -0.3,
+      "curvature": -1.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128023.9557543,
+      "upper": -4.7,
+      "pelvis": -0.3,
+      "curvature": -4.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.0092282,
+      "upper": -5.8,
+      "pelvis": -0.2,
+      "curvature": -5.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.0655813,
+      "upper": -6.8,
+      "pelvis": -0.2,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.1189237,
+      "upper": -10.9,
+      "pelvis": 0.1,
+      "curvature": -10.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.1723442,
+      "upper": -13.8,
+      "pelvis": -0.2,
+      "curvature": -13.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.2256923,
+      "upper": -14.5,
+      "pelvis": -0.0,
+      "curvature": -14.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.278938,
+      "upper": -17.1,
+      "pelvis": -0.0,
+      "curvature": -17.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.332512,
+      "upper": -17.3,
+      "pelvis": -0.2,
+      "curvature": -17.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.3857684,
+      "upper": -18.5,
+      "pelvis": -0.0,
+      "curvature": -18.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.4391222,
+      "upper": -19.5,
+      "pelvis": 0.1,
+      "curvature": -19.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.492231,
+      "upper": -20.8,
+      "pelvis": -0.4,
+      "curvature": -20.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.548879,
+      "upper": -21.5,
+      "pelvis": -0.0,
+      "curvature": -21.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.6022959,
+      "upper": -22.5,
+      "pelvis": -0.4,
+      "curvature": -22.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.6555188,
+      "upper": -23.0,
+      "pelvis": -0.1,
+      "curvature": -22.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.7095482,
+      "upper": -22.4,
+      "pelvis": -0.1,
+      "curvature": -22.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.7627761,
+      "upper": -22.3,
+      "pelvis": -0.1,
+      "curvature": -22.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.8156824,
+      "upper": -24.8,
+      "pelvis": -0.2,
+      "curvature": -24.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.8690107,
+      "upper": -24.6,
+      "pelvis": -0.4,
+      "curvature": -24.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.922815,
+      "upper": -27.1,
+      "pelvis": -0.1,
+      "curvature": -27.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128024.9755554,
+      "upper": -24.9,
+      "pelvis": -0.1,
+      "curvature": -24.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.0292244,
+      "upper": -25.6,
+      "pelvis": -0.3,
+      "curvature": -25.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.0854967,
+      "upper": -26.6,
+      "pelvis": 0.0,
+      "curvature": -26.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.1389177,
+      "upper": -26.5,
+      "pelvis": -0.3,
+      "curvature": -26.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.1925957,
+      "upper": -28.1,
+      "pelvis": -0.2,
+      "curvature": -27.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.2455397,
+      "upper": -33.3,
+      "pelvis": -0.4,
+      "curvature": -32.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.298986,
+      "upper": -37.8,
+      "pelvis": -4.8,
+      "curvature": -33.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.3522117,
+      "upper": -39.1,
+      "pelvis": 2.5,
+      "curvature": -41.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.4056292,
+      "upper": -39.2,
+      "pelvis": 0.4,
+      "curvature": -39.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.458968,
+      "upper": -39.2,
+      "pelvis": -0.2,
+      "curvature": -39.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.5124373,
+      "upper": -38.5,
+      "pelvis": 0.3,
+      "curvature": -38.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.5687907,
+      "upper": -38.2,
+      "pelvis": -0.1,
+      "curvature": -38.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.6221795,
+      "upper": -33.7,
+      "pelvis": -0.4,
+      "curvature": -33.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.6755295,
+      "upper": -27.9,
+      "pelvis": 0.3,
+      "curvature": -28.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.7295673,
+      "upper": -20.2,
+      "pelvis": -0.5,
+      "curvature": -19.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.7826111,
+      "upper": -17.4,
+      "pelvis": -0.0,
+      "curvature": -17.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.835544,
+      "upper": -12.5,
+      "pelvis": 0.1,
+      "curvature": -12.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.889189,
+      "upper": -10.9,
+      "pelvis": 2.6,
+      "curvature": -13.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.94227,
+      "upper": 0.2,
+      "pelvis": -2.3,
+      "curvature": 2.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128025.9955676,
+      "upper": -2.7,
+      "pelvis": 0.2,
+      "curvature": -2.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.0495384,
+      "upper": -2.3,
+      "pelvis": -0.2,
+      "curvature": -2.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.1053576,
+      "upper": -2.7,
+      "pelvis": -0.1,
+      "curvature": -2.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.1588387,
+      "upper": -2.2,
+      "pelvis": -0.3,
+      "curvature": -2.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.2119186,
+      "upper": -1.3,
+      "pelvis": 0.4,
+      "curvature": -1.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.2653852,
+      "upper": -3.2,
+      "pelvis": -0.2,
+      "curvature": -3.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.3187342,
+      "upper": -2.5,
+      "pelvis": -0.1,
+      "curvature": -2.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.371975,
+      "upper": -1.4,
+      "pelvis": 0.2,
+      "curvature": -1.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.4254296,
+      "upper": -0.8,
+      "pelvis": 0.4,
+      "curvature": -1.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.479234,
+      "upper": -1.1,
+      "pelvis": -0.1,
+      "curvature": -1.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.5320873,
+      "upper": -1.7,
+      "pelvis": -0.3,
+      "curvature": -1.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.5854547,
+      "upper": -2.4,
+      "pelvis": 0.0,
+      "curvature": -2.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.6385772,
+      "upper": -3.6,
+      "pelvis": -0.2,
+      "curvature": -3.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.6917937,
+      "upper": -1.3,
+      "pelvis": -0.3,
+      "curvature": -1.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.7484353,
+      "upper": -0.7,
+      "pelvis": -0.4,
+      "curvature": -0.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.8017225,
+      "upper": -1.2,
+      "pelvis": -0.5,
+      "curvature": -0.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.8550863,
+      "upper": -2.1,
+      "pelvis": 0.2,
+      "curvature": -2.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.908459,
+      "upper": -1.9,
+      "pelvis": -0.7,
+      "curvature": -1.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128026.961796,
+      "upper": -1.5,
+      "pelvis": -0.6,
+      "curvature": -0.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.0151222,
+      "upper": -2.7,
+      "pelvis": 0.5,
+      "curvature": -3.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.0685537,
+      "upper": -0.9,
+      "pelvis": -0.4,
+      "curvature": -0.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.1215394,
+      "upper": -0.9,
+      "pelvis": -0.4,
+      "curvature": -0.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.1750505,
+      "upper": -4.0,
+      "pelvis": -0.1,
+      "curvature": -3.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.228413,
+      "upper": -4.4,
+      "pelvis": 0.2,
+      "curvature": -4.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.2817087,
+      "upper": -4.8,
+      "pelvis": 2.2,
+      "curvature": -7.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.3381078,
+      "upper": -5.7,
+      "pelvis": -0.0,
+      "curvature": -5.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.3915496,
+      "upper": -5.2,
+      "pelvis": -0.1,
+      "curvature": -5.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.444903,
+      "upper": -5.7,
+      "pelvis": -0.2,
+      "curvature": -5.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.4983335,
+      "upper": -4.7,
+      "pelvis": -0.1,
+      "curvature": -4.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.551448,
+      "upper": -5.1,
+      "pelvis": 0.0,
+      "curvature": -5.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.6047509,
+      "upper": -5.4,
+      "pelvis": 0.1,
+      "curvature": -5.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.6585922,
+      "upper": -6.0,
+      "pelvis": -0.2,
+      "curvature": -5.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.7115293,
+      "upper": -5.1,
+      "pelvis": -0.4,
+      "curvature": -4.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.7648625,
+      "upper": -4.9,
+      "pelvis": -0.5,
+      "curvature": -4.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.8182657,
+      "upper": -5.8,
+      "pelvis": -0.4,
+      "curvature": -5.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.8717492,
+      "upper": -5.1,
+      "pelvis": -0.1,
+      "curvature": -5.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.9249718,
+      "upper": -5.4,
+      "pelvis": 0.3,
+      "curvature": -5.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128027.981814,
+      "upper": -5.2,
+      "pelvis": 0.2,
+      "curvature": -5.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.0345726,
+      "upper": -4.3,
+      "pelvis": 0.3,
+      "curvature": -4.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.0880191,
+      "upper": -4.9,
+      "pelvis": -0.2,
+      "curvature": -4.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.1413333,
+      "upper": -5.1,
+      "pelvis": -0.1,
+      "curvature": -5.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.1946816,
+      "upper": -6.0,
+      "pelvis": -0.2,
+      "curvature": -5.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.2482693,
+      "upper": -5.5,
+      "pelvis": -0.2,
+      "curvature": -5.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.3012283,
+      "upper": -4.7,
+      "pelvis": 0.2,
+      "curvature": -5.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.3545997,
+      "upper": -5.0,
+      "pelvis": -0.0,
+      "curvature": -5.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.4078407,
+      "upper": -5.3,
+      "pelvis": -0.1,
+      "curvature": -5.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.4612224,
+      "upper": -5.5,
+      "pelvis": -0.1,
+      "curvature": -5.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.5145931,
+      "upper": -5.6,
+      "pelvis": -0.0,
+      "curvature": -5.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.5679524,
+      "upper": -5.0,
+      "pelvis": 0.4,
+      "curvature": -5.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.6244287,
+      "upper": -4.9,
+      "pelvis": 0.1,
+      "curvature": -5.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.6778061,
+      "upper": -5.1,
+      "pelvis": -0.3,
+      "curvature": -4.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.7313335,
+      "upper": -4.9,
+      "pelvis": -0.3,
+      "curvature": -4.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.7844355,
+      "upper": -5.8,
+      "pelvis": -0.0,
+      "curvature": -5.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.8376389,
+      "upper": -5.7,
+      "pelvis": -0.0,
+      "curvature": -5.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.8908684,
+      "upper": -5.6,
+      "pelvis": 0.2,
+      "curvature": -5.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.9443264,
+      "upper": -5.6,
+      "pelvis": 0.0,
+      "curvature": -5.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128028.9975731,
+      "upper": -5.9,
+      "pelvis": 0.1,
+      "curvature": -6.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.051014,
+      "upper": -5.6,
+      "pelvis": -0.2,
+      "curvature": -5.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.10436,
+      "upper": -5.0,
+      "pelvis": -0.1,
+      "curvature": -4.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.1576605,
+      "upper": -5.9,
+      "pelvis": -0.3,
+      "curvature": -5.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.2109892,
+      "upper": -5.8,
+      "pelvis": 0.1,
+      "curvature": -5.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.267416,
+      "upper": -6.0,
+      "pelvis": -0.1,
+      "curvature": -6.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.3208442,
+      "upper": -6.2,
+      "pelvis": 0.2,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.374052,
+      "upper": -6.3,
+      "pelvis": 0.6,
+      "curvature": -6.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.4273443,
+      "upper": -6.6,
+      "pelvis": 0.1,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.4806101,
+      "upper": -6.6,
+      "pelvis": 0.1,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.5340686,
+      "upper": -6.1,
+      "pelvis": -0.1,
+      "curvature": -6.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.5874102,
+      "upper": -6.3,
+      "pelvis": -0.2,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.6407554,
+      "upper": -6.6,
+      "pelvis": -0.1,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.694119,
+      "upper": -6.8,
+      "pelvis": 0.0,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.7475796,
+      "upper": -5.9,
+      "pelvis": -0.1,
+      "curvature": -5.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.8010645,
+      "upper": -6.5,
+      "pelvis": -0.1,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.8573124,
+      "upper": -6.1,
+      "pelvis": -0.0,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.9107327,
+      "upper": -6.3,
+      "pelvis": 0.3,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128029.9636974,
+      "upper": -6.4,
+      "pelvis": 0.1,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.0171914,
+      "upper": -6.4,
+      "pelvis": -0.3,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.0704138,
+      "upper": -6.3,
+      "pelvis": 0.1,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.124341,
+      "upper": -6.3,
+      "pelvis": -0.2,
+      "curvature": -6.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.1771774,
+      "upper": -6.1,
+      "pelvis": -0.0,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.234066,
+      "upper": -6.0,
+      "pelvis": -0.1,
+      "curvature": -5.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.2841198,
+      "upper": -6.3,
+      "pelvis": -0.1,
+      "curvature": -6.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.337336,
+      "upper": -6.2,
+      "pelvis": -0.2,
+      "curvature": -6.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.3939886,
+      "upper": -6.2,
+      "pelvis": -0.3,
+      "curvature": -5.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.4470935,
+      "upper": -6.6,
+      "pelvis": -0.3,
+      "curvature": -6.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.50047,
+      "upper": -6.4,
+      "pelvis": -0.5,
+      "curvature": -5.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.5537424,
+      "upper": -6.2,
+      "pelvis": 0.0,
+      "curvature": -6.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.6071012,
+      "upper": -6.8,
+      "pelvis": -0.6,
+      "curvature": -6.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.660929,
+      "upper": -6.8,
+      "pelvis": -0.1,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.7137094,
+      "upper": -6.5,
+      "pelvis": 0.2,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.767074,
+      "upper": -6.8,
+      "pelvis": 0.2,
+      "curvature": -7.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.8203714,
+      "upper": -6.8,
+      "pelvis": -0.0,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.8738086,
+      "upper": -6.3,
+      "pelvis": -0.2,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.9270718,
+      "upper": -7.0,
+      "pelvis": 0.5,
+      "curvature": -7.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128030.983432,
+      "upper": -6.5,
+      "pelvis": -0.1,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.0368261,
+      "upper": -7.0,
+      "pelvis": 0.2,
+      "curvature": -7.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.0901442,
+      "upper": -6.5,
+      "pelvis": -0.1,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.143517,
+      "upper": -6.9,
+      "pelvis": -0.0,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.1968875,
+      "upper": -6.7,
+      "pelvis": 0.0,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.2502275,
+      "upper": -6.8,
+      "pelvis": -0.0,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.303491,
+      "upper": -6.5,
+      "pelvis": 0.1,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.3567917,
+      "upper": -6.7,
+      "pelvis": 0.1,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.4101188,
+      "upper": -6.7,
+      "pelvis": 0.1,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.4637675,
+      "upper": -7.1,
+      "pelvis": 0.1,
+      "curvature": -7.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.5167794,
+      "upper": -6.4,
+      "pelvis": 0.2,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.5699103,
+      "upper": -6.9,
+      "pelvis": 0.1,
+      "curvature": -7.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.6264682,
+      "upper": -7.1,
+      "pelvis": 0.2,
+      "curvature": -7.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.6799288,
+      "upper": -6.8,
+      "pelvis": 0.1,
+      "curvature": -6.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.7332451,
+      "upper": -7.1,
+      "pelvis": -0.2,
+      "curvature": -6.8,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.7865758,
+      "upper": -6.8,
+      "pelvis": 0.3,
+      "curvature": -7.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.8401518,
+      "upper": -7.3,
+      "pelvis": -0.0,
+      "curvature": -7.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.893286,
+      "upper": -5.9,
+      "pelvis": 0.3,
+      "curvature": -6.3,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.9467192,
+      "upper": -6.5,
+      "pelvis": 0.2,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128031.999959,
+      "upper": -6.2,
+      "pelvis": 0.2,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.0535412,
+      "upper": -6.5,
+      "pelvis": -0.5,
+      "curvature": -6.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.1065023,
+      "upper": -7.4,
+      "pelvis": 0.1,
+      "curvature": -7.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.1601665,
+      "upper": -6.7,
+      "pelvis": -0.1,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.2131827,
+      "upper": -6.8,
+      "pelvis": 0.3,
+      "curvature": -7.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.269681,
+      "upper": -7.2,
+      "pelvis": -0.5,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.32294,
+      "upper": -6.7,
+      "pelvis": 0.0,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.3763487,
+      "upper": -7.3,
+      "pelvis": -0.4,
+      "curvature": -6.9,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.4296913,
+      "upper": -6.2,
+      "pelvis": -0.1,
+      "curvature": -6.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.4830823,
+      "upper": -6.2,
+      "pelvis": 0.3,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.536405,
+      "upper": -6.6,
+      "pelvis": -0.1,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.5900278,
+      "upper": -6.7,
+      "pelvis": -0.2,
+      "curvature": -6.5,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.6430998,
+      "upper": -6.5,
+      "pelvis": 0.2,
+      "curvature": -6.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.6964061,
+      "upper": -6.9,
+      "pelvis": -0.3,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.7503395,
+      "upper": -6.3,
+      "pelvis": 0.3,
+      "curvature": -6.6,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.803061,
+      "upper": -7.1,
+      "pelvis": -0.0,
+      "curvature": -7.1,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.8594203,
+      "upper": -6.9,
+      "pelvis": 0.1,
+      "curvature": -7.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.9126532,
+      "upper": -4.8,
+      "pelvis": -0.1,
+      "curvature": -4.7,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128032.9661207,
+      "upper": -6.3,
+      "pelvis": 0.0,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128033.0194721,
+      "upper": -6.4,
+      "pelvis": 0.0,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128033.0729487,
+      "upper": -6.1,
+      "pelvis": 0.3,
+      "curvature": -6.4,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128033.1261237,
+      "upper": -8.7,
+      "pelvis": 0.2,
+      "curvature": -9.0,
+      "threshold": 6.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768128033.1797173,
+      "upper": 3.1,
+      "pelvis": -0.0,
+      "curvature": 3.2,
+      "threshold": 6.0,
+      "led": "GREEN"
+    }
+  ]
+}

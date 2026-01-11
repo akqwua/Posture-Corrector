@@ -1,0 +1,2758 @@
+{
+  "started_at": "2026-01-11T03:15:16.979720-08:00",
+  "ended_at": "2026-01-11T03:15:35.460535-08:00",
+  "samples": [
+    {
+      "t": 1768130116.984125,
+      "upper": 26.3,
+      "pelvis": 0.5,
+      "curvature": 25.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.0370665,
+      "upper": 26.4,
+      "pelvis": -0.0,
+      "curvature": 26.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.090451,
+      "upper": 26.0,
+      "pelvis": 0.3,
+      "curvature": 25.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.1438541,
+      "upper": 26.6,
+      "pelvis": 0.0,
+      "curvature": 26.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.2006142,
+      "upper": 26.9,
+      "pelvis": -0.1,
+      "curvature": 27.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.2536247,
+      "upper": 25.9,
+      "pelvis": 0.6,
+      "curvature": 25.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.3069818,
+      "upper": 26.6,
+      "pelvis": 0.2,
+      "curvature": 26.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.360281,
+      "upper": 26.2,
+      "pelvis": 0.4,
+      "curvature": 25.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.4139442,
+      "upper": 26.6,
+      "pelvis": 0.3,
+      "curvature": 26.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.4672198,
+      "upper": 26.7,
+      "pelvis": 0.2,
+      "curvature": 26.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.5205672,
+      "upper": 27.3,
+      "pelvis": 0.3,
+      "curvature": 27.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.5738735,
+      "upper": 28.2,
+      "pelvis": 0.0,
+      "curvature": 28.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.6271646,
+      "upper": 28.4,
+      "pelvis": 0.2,
+      "curvature": 28.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.683595,
+      "upper": 27.8,
+      "pelvis": 0.1,
+      "curvature": 27.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.737022,
+      "upper": 27.0,
+      "pelvis": 0.4,
+      "curvature": 26.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.7903314,
+      "upper": 30.5,
+      "pelvis": 0.2,
+      "curvature": 30.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.8437638,
+      "upper": 29.4,
+      "pelvis": 0.4,
+      "curvature": 29.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.8971338,
+      "upper": 24.8,
+      "pelvis": 0.3,
+      "curvature": 24.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130117.9505508,
+      "upper": 17.2,
+      "pelvis": -0.0,
+      "curvature": 17.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.0039008,
+      "upper": 76.8,
+      "pelvis": 0.0,
+      "curvature": 76.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.05729,
+      "upper": 6.3,
+      "pelvis": 0.4,
+      "curvature": 5.9,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.1102602,
+      "upper": -0.7,
+      "pelvis": 0.1,
+      "curvature": -0.8,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.1637356,
+      "upper": 2.9,
+      "pelvis": -0.1,
+      "curvature": 3.0,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.216985,
+      "upper": 1.2,
+      "pelvis": 0.9,
+      "curvature": 0.2,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.2734091,
+      "upper": -0.6,
+      "pelvis": 0.8,
+      "curvature": -1.4,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.3267944,
+      "upper": 8.2,
+      "pelvis": -0.1,
+      "curvature": 8.3,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.380032,
+      "upper": 9.4,
+      "pelvis": 0.6,
+      "curvature": 8.8,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.4335084,
+      "upper": 21.0,
+      "pelvis": 0.1,
+      "curvature": 20.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.4870155,
+      "upper": 16.4,
+      "pelvis": 0.2,
+      "curvature": 16.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.540366,
+      "upper": 25.0,
+      "pelvis": 0.4,
+      "curvature": 24.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.5938027,
+      "upper": 26.6,
+      "pelvis": 0.2,
+      "curvature": 26.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.6469505,
+      "upper": 26.3,
+      "pelvis": 0.1,
+      "curvature": 26.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.7003467,
+      "upper": 24.5,
+      "pelvis": 0.4,
+      "curvature": 24.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.7567804,
+      "upper": 22.3,
+      "pelvis": 0.1,
+      "curvature": 22.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.810173,
+      "upper": 18.7,
+      "pelvis": 0.4,
+      "curvature": 18.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130118.8634596,
+      "upper": 7.1,
+      "pelvis": 0.5,
+      "curvature": 6.6,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.9168077,
+      "upper": 2.9,
+      "pelvis": -0.1,
+      "curvature": 2.9,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130118.9701426,
+      "upper": 4.2,
+      "pelvis": 0.1,
+      "curvature": 4.1,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.023659,
+      "upper": 2.0,
+      "pelvis": -0.3,
+      "curvature": 2.3,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.0768893,
+      "upper": 3.9,
+      "pelvis": 0.5,
+      "curvature": 3.4,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.1303532,
+      "upper": 9.3,
+      "pelvis": 0.2,
+      "curvature": 9.1,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.1835935,
+      "upper": 16.2,
+      "pelvis": 0.4,
+      "curvature": 15.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.240253,
+      "upper": 16.3,
+      "pelvis": 0.1,
+      "curvature": 16.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.2934177,
+      "upper": 21.1,
+      "pelvis": 0.0,
+      "curvature": 21.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.3473916,
+      "upper": 20.0,
+      "pelvis": -0.1,
+      "curvature": 20.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.4001684,
+      "upper": 24.4,
+      "pelvis": 0.0,
+      "curvature": 24.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.4534822,
+      "upper": 22.0,
+      "pelvis": 0.2,
+      "curvature": 21.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.5068781,
+      "upper": 19.0,
+      "pelvis": -0.1,
+      "curvature": 19.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.560173,
+      "upper": 14.9,
+      "pelvis": 0.5,
+      "curvature": 14.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.6137216,
+      "upper": 8.4,
+      "pelvis": -0.1,
+      "curvature": 8.5,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.6667392,
+      "upper": 7.4,
+      "pelvis": 0.3,
+      "curvature": 7.2,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.7232788,
+      "upper": 4.3,
+      "pelvis": 0.5,
+      "curvature": 3.8,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.776973,
+      "upper": 7.1,
+      "pelvis": -0.2,
+      "curvature": 7.3,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130119.8300893,
+      "upper": 16.2,
+      "pelvis": 0.9,
+      "curvature": 15.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.8839943,
+      "upper": 12.4,
+      "pelvis": 0.2,
+      "curvature": 12.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.9367816,
+      "upper": 22.9,
+      "pelvis": 0.6,
+      "curvature": 22.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130119.9903524,
+      "upper": 19.8,
+      "pelvis": -0.2,
+      "curvature": 20.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.0442464,
+      "upper": 21.1,
+      "pelvis": 0.9,
+      "curvature": 20.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.096917,
+      "upper": 12.5,
+      "pelvis": -0.2,
+      "curvature": 12.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.150171,
+      "upper": 5.1,
+      "pelvis": -0.0,
+      "curvature": 5.2,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130120.2067204,
+      "upper": 8.6,
+      "pelvis": 0.9,
+      "curvature": 7.6,
+      "threshold": 10.2,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768130120.259999,
+      "upper": 10.5,
+      "pelvis": -0.0,
+      "curvature": 10.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.3134563,
+      "upper": 19.3,
+      "pelvis": 0.1,
+      "curvature": 19.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.3668087,
+      "upper": 20.7,
+      "pelvis": 0.3,
+      "curvature": 20.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.420205,
+      "upper": 24.9,
+      "pelvis": 0.2,
+      "curvature": 24.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.4735699,
+      "upper": 31.5,
+      "pelvis": -0.0,
+      "curvature": 31.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.5269375,
+      "upper": 32.3,
+      "pelvis": 0.1,
+      "curvature": 32.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.5803888,
+      "upper": 36.8,
+      "pelvis": 0.2,
+      "curvature": 36.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.6366944,
+      "upper": 36.2,
+      "pelvis": 1.0,
+      "curvature": 35.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.6904397,
+      "upper": 37.2,
+      "pelvis": -0.0,
+      "curvature": 37.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.7434802,
+      "upper": 34.9,
+      "pelvis": 0.3,
+      "curvature": 34.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.7967525,
+      "upper": 37.9,
+      "pelvis": 0.5,
+      "curvature": 37.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.8503177,
+      "upper": 39.6,
+      "pelvis": 0.4,
+      "curvature": 39.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.9036052,
+      "upper": 38.7,
+      "pelvis": 0.5,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130120.9569502,
+      "upper": 40.1,
+      "pelvis": 0.1,
+      "curvature": 39.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.010318,
+      "upper": 39.6,
+      "pelvis": -0.1,
+      "curvature": 39.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.0637167,
+      "upper": 37.7,
+      "pelvis": 0.4,
+      "curvature": 37.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.1201382,
+      "upper": 40.6,
+      "pelvis": 0.4,
+      "curvature": 40.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.1733918,
+      "upper": 38.2,
+      "pelvis": 0.2,
+      "curvature": 38.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.2269065,
+      "upper": 38.5,
+      "pelvis": 0.2,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.2802129,
+      "upper": 38.8,
+      "pelvis": 0.3,
+      "curvature": 38.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.3335497,
+      "upper": 39.3,
+      "pelvis": 0.3,
+      "curvature": 39.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.3869371,
+      "upper": 38.8,
+      "pelvis": 0.2,
+      "curvature": 38.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.4405222,
+      "upper": 38.2,
+      "pelvis": -0.3,
+      "curvature": 38.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.4938726,
+      "upper": 39.1,
+      "pelvis": 0.8,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.5501196,
+      "upper": 38.3,
+      "pelvis": 0.1,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.6035852,
+      "upper": 38.7,
+      "pelvis": 0.4,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.657653,
+      "upper": 38.4,
+      "pelvis": 0.1,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.710274,
+      "upper": 38.5,
+      "pelvis": 0.2,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.7638714,
+      "upper": 38.7,
+      "pelvis": -0.0,
+      "curvature": 38.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.8169484,
+      "upper": 38.6,
+      "pelvis": 0.2,
+      "curvature": 38.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.8702888,
+      "upper": 39.3,
+      "pelvis": 0.4,
+      "curvature": 38.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.9237525,
+      "upper": 38.2,
+      "pelvis": 0.1,
+      "curvature": 38.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130121.9803836,
+      "upper": 38.0,
+      "pelvis": 0.1,
+      "curvature": 38.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.0340133,
+      "upper": 39.0,
+      "pelvis": 0.3,
+      "curvature": 38.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.086967,
+      "upper": 39.0,
+      "pelvis": 0.1,
+      "curvature": 39.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.1403272,
+      "upper": 39.0,
+      "pelvis": 0.2,
+      "curvature": 38.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.1937387,
+      "upper": 38.7,
+      "pelvis": 0.4,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.247103,
+      "upper": 38.5,
+      "pelvis": 0.6,
+      "curvature": 37.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.3009088,
+      "upper": 38.4,
+      "pelvis": 0.4,
+      "curvature": 37.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.3537831,
+      "upper": 38.4,
+      "pelvis": 0.3,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.4102244,
+      "upper": 38.3,
+      "pelvis": 0.4,
+      "curvature": 37.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.4638567,
+      "upper": 37.6,
+      "pelvis": 0.2,
+      "curvature": 37.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.5169902,
+      "upper": 37.9,
+      "pelvis": 0.3,
+      "curvature": 37.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.5703862,
+      "upper": 38.4,
+      "pelvis": 0.1,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.6237204,
+      "upper": 38.1,
+      "pelvis": 0.1,
+      "curvature": 38.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.6770713,
+      "upper": 38.0,
+      "pelvis": 0.2,
+      "curvature": 37.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.7309117,
+      "upper": 38.5,
+      "pelvis": -0.1,
+      "curvature": 38.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.7843647,
+      "upper": 37.5,
+      "pelvis": 0.2,
+      "curvature": 37.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.8371692,
+      "upper": 38.3,
+      "pelvis": 0.1,
+      "curvature": 38.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.894066,
+      "upper": 36.0,
+      "pelvis": -0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130122.946912,
+      "upper": 38.5,
+      "pelvis": 0.2,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.0002947,
+      "upper": 38.1,
+      "pelvis": 0.3,
+      "curvature": 37.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.0537715,
+      "upper": 38.3,
+      "pelvis": 0.6,
+      "curvature": 37.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.10706,
+      "upper": 38.2,
+      "pelvis": 0.1,
+      "curvature": 38.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.1605608,
+      "upper": 38.2,
+      "pelvis": 0.0,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.2137227,
+      "upper": 38.4,
+      "pelvis": 0.2,
+      "curvature": 38.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.2672253,
+      "upper": 36.1,
+      "pelvis": 0.6,
+      "curvature": 35.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.3236516,
+      "upper": 39.1,
+      "pelvis": 0.4,
+      "curvature": 38.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.3770347,
+      "upper": 38.1,
+      "pelvis": 0.3,
+      "curvature": 37.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.4304342,
+      "upper": 38.3,
+      "pelvis": -0.0,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.483903,
+      "upper": 37.1,
+      "pelvis": 0.4,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.5369787,
+      "upper": 37.2,
+      "pelvis": 0.2,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.5910919,
+      "upper": 35.8,
+      "pelvis": -0.1,
+      "curvature": 35.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.643897,
+      "upper": 37.7,
+      "pelvis": 0.4,
+      "curvature": 37.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.6972532,
+      "upper": 38.4,
+      "pelvis": 0.4,
+      "curvature": 38.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.7537355,
+      "upper": 38.3,
+      "pelvis": 0.4,
+      "curvature": 37.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.8070562,
+      "upper": 37.8,
+      "pelvis": 0.6,
+      "curvature": 37.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.8604329,
+      "upper": 37.3,
+      "pelvis": 0.5,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.9137633,
+      "upper": 36.8,
+      "pelvis": 0.2,
+      "curvature": 36.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130123.967354,
+      "upper": 37.8,
+      "pelvis": 0.2,
+      "curvature": 37.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.0210087,
+      "upper": 37.1,
+      "pelvis": -0.2,
+      "curvature": 37.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.074079,
+      "upper": 37.9,
+      "pelvis": -0.1,
+      "curvature": 38.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.1271396,
+      "upper": 38.0,
+      "pelvis": 0.1,
+      "curvature": 38.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.184184,
+      "upper": 37.2,
+      "pelvis": 0.5,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.237091,
+      "upper": 37.1,
+      "pelvis": 0.0,
+      "curvature": 37.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.2904048,
+      "upper": 36.7,
+      "pelvis": 0.5,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.3445082,
+      "upper": 38.5,
+      "pelvis": 0.2,
+      "curvature": 38.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.3971856,
+      "upper": 37.4,
+      "pelvis": 0.6,
+      "curvature": 36.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.4511523,
+      "upper": 37.0,
+      "pelvis": 0.0,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.5039918,
+      "upper": 37.1,
+      "pelvis": 0.2,
+      "curvature": 36.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.557341,
+      "upper": 37.1,
+      "pelvis": 0.2,
+      "curvature": 36.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.6111777,
+      "upper": 37.0,
+      "pelvis": 0.3,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.6673217,
+      "upper": 37.5,
+      "pelvis": 0.5,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.7204723,
+      "upper": 36.0,
+      "pelvis": 0.3,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.7739,
+      "upper": 37.6,
+      "pelvis": 0.4,
+      "curvature": 37.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.8273869,
+      "upper": 36.4,
+      "pelvis": 0.2,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.8805413,
+      "upper": 38.3,
+      "pelvis": 0.6,
+      "curvature": 37.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.933993,
+      "upper": 36.2,
+      "pelvis": -0.2,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130124.9872332,
+      "upper": 36.6,
+      "pelvis": 0.2,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.0407183,
+      "upper": 36.9,
+      "pelvis": 0.7,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.0971596,
+      "upper": 36.9,
+      "pelvis": -0.1,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.1506615,
+      "upper": 36.5,
+      "pelvis": -0.1,
+      "curvature": 36.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.203937,
+      "upper": 36.5,
+      "pelvis": 0.7,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.257262,
+      "upper": 36.2,
+      "pelvis": 0.3,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.310475,
+      "upper": 36.2,
+      "pelvis": 0.0,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.3644247,
+      "upper": 36.7,
+      "pelvis": -0.0,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.417466,
+      "upper": 37.2,
+      "pelvis": 0.6,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.4707117,
+      "upper": 36.4,
+      "pelvis": -0.0,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.52715,
+      "upper": 36.9,
+      "pelvis": 0.1,
+      "curvature": 36.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.5806594,
+      "upper": 37.6,
+      "pelvis": 0.1,
+      "curvature": 37.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.6344714,
+      "upper": 36.0,
+      "pelvis": -0.0,
+      "curvature": 36.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.6872308,
+      "upper": 36.5,
+      "pelvis": 0.3,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.7407718,
+      "upper": 36.1,
+      "pelvis": 0.3,
+      "curvature": 35.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.7941008,
+      "upper": 36.5,
+      "pelvis": 0.2,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.8473973,
+      "upper": 35.9,
+      "pelvis": 0.4,
+      "curvature": 35.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.9006402,
+      "upper": 36.9,
+      "pelvis": 0.4,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130125.9571526,
+      "upper": 36.3,
+      "pelvis": 0.3,
+      "curvature": 36.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.0113623,
+      "upper": 36.3,
+      "pelvis": -0.1,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.0640163,
+      "upper": 35.8,
+      "pelvis": 0.1,
+      "curvature": 35.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.1173763,
+      "upper": 36.6,
+      "pelvis": 0.2,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.1708434,
+      "upper": 36.1,
+      "pelvis": 0.3,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.224207,
+      "upper": 36.2,
+      "pelvis": 0.5,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.2781732,
+      "upper": 36.7,
+      "pelvis": -0.3,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.3308861,
+      "upper": 36.3,
+      "pelvis": 0.4,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.3872616,
+      "upper": 36.2,
+      "pelvis": -0.2,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.4406629,
+      "upper": 36.9,
+      "pelvis": 0.4,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.4941697,
+      "upper": 36.4,
+      "pelvis": 0.2,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.5475636,
+      "upper": 36.4,
+      "pelvis": 0.3,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.6010716,
+      "upper": 36.8,
+      "pelvis": 0.1,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.6551666,
+      "upper": 36.8,
+      "pelvis": 0.3,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.708069,
+      "upper": 36.9,
+      "pelvis": 0.5,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.7608478,
+      "upper": 36.5,
+      "pelvis": -0.2,
+      "curvature": 36.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.814258,
+      "upper": 37.1,
+      "pelvis": 0.2,
+      "curvature": 36.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.8709645,
+      "upper": 36.8,
+      "pelvis": -0.0,
+      "curvature": 36.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.9246743,
+      "upper": 36.0,
+      "pelvis": 0.1,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130126.9774394,
+      "upper": 35.9,
+      "pelvis": 0.1,
+      "curvature": 35.8,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.0308425,
+      "upper": 36.2,
+      "pelvis": -0.0,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.0841267,
+      "upper": 36.2,
+      "pelvis": 0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.1375804,
+      "upper": 36.5,
+      "pelvis": -0.1,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.191398,
+      "upper": 36.6,
+      "pelvis": 0.5,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.2442446,
+      "upper": 36.8,
+      "pelvis": 0.0,
+      "curvature": 36.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.3010867,
+      "upper": 35.9,
+      "pelvis": 0.8,
+      "curvature": 35.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.3540096,
+      "upper": 36.6,
+      "pelvis": 0.0,
+      "curvature": 36.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.4074867,
+      "upper": 36.5,
+      "pelvis": 0.5,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.4606717,
+      "upper": 36.0,
+      "pelvis": 0.5,
+      "curvature": 35.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.514257,
+      "upper": 36.6,
+      "pelvis": 0.3,
+      "curvature": 36.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.5676763,
+      "upper": 36.7,
+      "pelvis": 0.2,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.6209488,
+      "upper": 36.3,
+      "pelvis": 0.2,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.6743329,
+      "upper": 36.5,
+      "pelvis": 0.2,
+      "curvature": 36.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.730942,
+      "upper": 35.5,
+      "pelvis": 0.1,
+      "curvature": 35.4,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.7841733,
+      "upper": 36.0,
+      "pelvis": 0.3,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.8374753,
+      "upper": 36.2,
+      "pelvis": 0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.8908615,
+      "upper": 36.0,
+      "pelvis": 0.3,
+      "curvature": 35.6,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.9441533,
+      "upper": 36.5,
+      "pelvis": 0.2,
+      "curvature": 36.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130127.9975722,
+      "upper": 36.2,
+      "pelvis": 0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130128.0509257,
+      "upper": 36.0,
+      "pelvis": 0.3,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130128.1043828,
+      "upper": 36.3,
+      "pelvis": -0.1,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130128.1607766,
+      "upper": 35.2,
+      "pelvis": -0.0,
+      "curvature": 35.3,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130128.214127,
+      "upper": 35.7,
+      "pelvis": 0.4,
+      "curvature": 35.2,
+      "threshold": 10.2,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768130128.26779,
+      "upper": 35.6,
+      "pelvis": 0.2,
+      "curvature": 35.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.3209856,
+      "upper": 37.5,
+      "pelvis": 0.6,
+      "curvature": 37.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.3741982,
+      "upper": 36.3,
+      "pelvis": -0.1,
+      "curvature": 36.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.427533,
+      "upper": 36.5,
+      "pelvis": 0.7,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.4813015,
+      "upper": 36.2,
+      "pelvis": 0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.5342317,
+      "upper": 36.1,
+      "pelvis": 0.3,
+      "curvature": 35.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.5876198,
+      "upper": 35.5,
+      "pelvis": 0.1,
+      "curvature": 35.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.6412685,
+      "upper": 37.6,
+      "pelvis": -0.1,
+      "curvature": 37.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.6975155,
+      "upper": 36.3,
+      "pelvis": 0.1,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.7508073,
+      "upper": 36.3,
+      "pelvis": -0.3,
+      "curvature": 36.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.8041916,
+      "upper": 35.9,
+      "pelvis": -0.3,
+      "curvature": 36.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.8578043,
+      "upper": 35.9,
+      "pelvis": 0.3,
+      "curvature": 35.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.910936,
+      "upper": 35.9,
+      "pelvis": 0.6,
+      "curvature": 35.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130128.9646244,
+      "upper": 36.0,
+      "pelvis": 0.1,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.0176132,
+      "upper": 36.3,
+      "pelvis": 0.4,
+      "curvature": 35.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.0710075,
+      "upper": 36.1,
+      "pelvis": 0.0,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.1274338,
+      "upper": 35.4,
+      "pelvis": 0.2,
+      "curvature": 35.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.1808722,
+      "upper": 36.5,
+      "pelvis": 0.4,
+      "curvature": 36.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.2342339,
+      "upper": 37.4,
+      "pelvis": 0.3,
+      "curvature": 37.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.2874916,
+      "upper": 33.6,
+      "pelvis": 0.2,
+      "curvature": 33.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.3409703,
+      "upper": 32.3,
+      "pelvis": 0.5,
+      "curvature": 31.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.394237,
+      "upper": 32.6,
+      "pelvis": 0.2,
+      "curvature": 32.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.4478645,
+      "upper": 35.9,
+      "pelvis": 0.4,
+      "curvature": 35.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.5008047,
+      "upper": 32.3,
+      "pelvis": 0.4,
+      "curvature": 31.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.5543914,
+      "upper": 28.9,
+      "pelvis": 0.3,
+      "curvature": 28.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.6108246,
+      "upper": 31.4,
+      "pelvis": 0.4,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.6642027,
+      "upper": 31.3,
+      "pelvis": 0.2,
+      "curvature": 31.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.717505,
+      "upper": 29.0,
+      "pelvis": 0.8,
+      "curvature": 28.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.7709727,
+      "upper": 30.7,
+      "pelvis": -0.1,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.8245533,
+      "upper": 29.8,
+      "pelvis": 0.0,
+      "curvature": 29.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.877559,
+      "upper": 30.0,
+      "pelvis": 0.2,
+      "curvature": 29.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.9311373,
+      "upper": 27.9,
+      "pelvis": 0.5,
+      "curvature": 27.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130129.98443,
+      "upper": 30.2,
+      "pelvis": 0.3,
+      "curvature": 29.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.0408478,
+      "upper": 30.3,
+      "pelvis": 0.2,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.0941133,
+      "upper": 31.1,
+      "pelvis": 0.5,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.1477993,
+      "upper": 30.9,
+      "pelvis": 0.2,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.2008867,
+      "upper": 30.0,
+      "pelvis": 0.3,
+      "curvature": 29.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.2542515,
+      "upper": 30.7,
+      "pelvis": 0.2,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.3078618,
+      "upper": 31.4,
+      "pelvis": 0.2,
+      "curvature": 31.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.3615038,
+      "upper": 31.3,
+      "pelvis": 0.1,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.414539,
+      "upper": 30.6,
+      "pelvis": 0.2,
+      "curvature": 30.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.4677668,
+      "upper": 31.0,
+      "pelvis": 0.4,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.5241969,
+      "upper": 29.5,
+      "pelvis": 0.3,
+      "curvature": 29.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.5775516,
+      "upper": 29.8,
+      "pelvis": 0.2,
+      "curvature": 29.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.631338,
+      "upper": 29.9,
+      "pelvis": 0.0,
+      "curvature": 29.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.684271,
+      "upper": 30.1,
+      "pelvis": 0.6,
+      "curvature": 29.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.737644,
+      "upper": 30.6,
+      "pelvis": 0.2,
+      "curvature": 30.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.7909956,
+      "upper": 30.9,
+      "pelvis": 0.2,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.8443499,
+      "upper": 30.9,
+      "pelvis": 0.3,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.8977451,
+      "upper": 31.1,
+      "pelvis": 0.2,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130130.9509676,
+      "upper": 31.2,
+      "pelvis": 0.2,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.0075252,
+      "upper": 30.5,
+      "pelvis": -0.2,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.0609474,
+      "upper": 32.1,
+      "pelvis": -0.3,
+      "curvature": 32.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.1141605,
+      "upper": 31.3,
+      "pelvis": 0.1,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.167676,
+      "upper": 31.1,
+      "pelvis": 0.2,
+      "curvature": 30.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.2209523,
+      "upper": 30.9,
+      "pelvis": 0.3,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.274407,
+      "upper": 31.1,
+      "pelvis": 0.4,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.3277247,
+      "upper": 30.6,
+      "pelvis": 0.6,
+      "curvature": 30.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.3811195,
+      "upper": 31.8,
+      "pelvis": 0.2,
+      "curvature": 31.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.437566,
+      "upper": 31.6,
+      "pelvis": 0.5,
+      "curvature": 31.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.4908586,
+      "upper": 31.1,
+      "pelvis": 0.4,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.544527,
+      "upper": 31.5,
+      "pelvis": 0.5,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.5975773,
+      "upper": 31.2,
+      "pelvis": 0.5,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.6511993,
+      "upper": 31.2,
+      "pelvis": 0.0,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.7043757,
+      "upper": 32.2,
+      "pelvis": 0.0,
+      "curvature": 32.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.7574632,
+      "upper": 31.5,
+      "pelvis": 0.2,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.8117166,
+      "upper": 31.7,
+      "pelvis": 0.1,
+      "curvature": 31.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.8643668,
+      "upper": 31.3,
+      "pelvis": 0.0,
+      "curvature": 31.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.9209802,
+      "upper": 31.0,
+      "pelvis": 0.3,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130131.9742196,
+      "upper": 31.1,
+      "pelvis": 0.1,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.0280252,
+      "upper": 30.7,
+      "pelvis": -0.0,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.0809455,
+      "upper": 31.1,
+      "pelvis": 0.5,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.1345172,
+      "upper": 31.5,
+      "pelvis": 0.2,
+      "curvature": 31.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.1875489,
+      "upper": 31.3,
+      "pelvis": 0.1,
+      "curvature": 31.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.2410092,
+      "upper": 32.1,
+      "pelvis": 0.2,
+      "curvature": 31.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.2944071,
+      "upper": 30.4,
+      "pelvis": 0.2,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.3508947,
+      "upper": 30.9,
+      "pelvis": -0.1,
+      "curvature": 30.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.4042726,
+      "upper": 29.7,
+      "pelvis": 0.0,
+      "curvature": 29.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.4582798,
+      "upper": 30.3,
+      "pelvis": -0.0,
+      "curvature": 30.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.5114045,
+      "upper": 30.5,
+      "pelvis": 0.0,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.5645885,
+      "upper": 30.6,
+      "pelvis": 0.5,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.6177657,
+      "upper": 30.6,
+      "pelvis": 0.1,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.6711574,
+      "upper": 30.9,
+      "pelvis": -0.2,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.7246385,
+      "upper": 30.7,
+      "pelvis": 0.2,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.7810097,
+      "upper": 31.1,
+      "pelvis": 0.3,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.8344626,
+      "upper": 31.2,
+      "pelvis": 0.0,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.8877206,
+      "upper": 31.0,
+      "pelvis": 0.3,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.9411278,
+      "upper": 31.2,
+      "pelvis": 0.2,
+      "curvature": 30.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130132.9944978,
+      "upper": 30.7,
+      "pelvis": 0.5,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.0478356,
+      "upper": 30.6,
+      "pelvis": 0.3,
+      "curvature": 30.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.1012366,
+      "upper": 31.0,
+      "pelvis": 0.3,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.1545906,
+      "upper": 31.5,
+      "pelvis": 0.1,
+      "curvature": 31.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.2079337,
+      "upper": 31.5,
+      "pelvis": 0.2,
+      "curvature": 31.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.264582,
+      "upper": 30.7,
+      "pelvis": 0.2,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.317774,
+      "upper": 31.4,
+      "pelvis": 0.2,
+      "curvature": 31.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.3715386,
+      "upper": 30.8,
+      "pelvis": -0.4,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.4245174,
+      "upper": 31.2,
+      "pelvis": 0.6,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.477863,
+      "upper": 31.5,
+      "pelvis": 0.6,
+      "curvature": 31.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.5311995,
+      "upper": 30.9,
+      "pelvis": 0.3,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.584509,
+      "upper": 31.1,
+      "pelvis": 0.1,
+      "curvature": 31.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.6380424,
+      "upper": 30.6,
+      "pelvis": 0.4,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.6944814,
+      "upper": 30.6,
+      "pelvis": 0.2,
+      "curvature": 30.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.7477229,
+      "upper": 31.1,
+      "pelvis": -0.1,
+      "curvature": 31.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.801072,
+      "upper": 30.9,
+      "pelvis": 0.3,
+      "curvature": 30.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.8544135,
+      "upper": 30.7,
+      "pelvis": 0.2,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.9078496,
+      "upper": 30.8,
+      "pelvis": 0.1,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130133.96123,
+      "upper": 31.3,
+      "pelvis": 0.5,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.014507,
+      "upper": 30.8,
+      "pelvis": -0.0,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.067874,
+      "upper": 30.5,
+      "pelvis": 0.3,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.1212535,
+      "upper": 30.8,
+      "pelvis": -0.3,
+      "curvature": 31.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.178034,
+      "upper": 29.9,
+      "pelvis": 0.2,
+      "curvature": 29.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.2312214,
+      "upper": 31.5,
+      "pelvis": 0.8,
+      "curvature": 30.7,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.284448,
+      "upper": 30.3,
+      "pelvis": 0.4,
+      "curvature": 29.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.3378391,
+      "upper": 30.7,
+      "pelvis": 0.3,
+      "curvature": 30.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.3911304,
+      "upper": 30.2,
+      "pelvis": -0.3,
+      "curvature": 30.4,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.4444945,
+      "upper": 29.8,
+      "pelvis": 0.9,
+      "curvature": 28.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.4978988,
+      "upper": 30.1,
+      "pelvis": 0.0,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.5513105,
+      "upper": 30.8,
+      "pelvis": 0.3,
+      "curvature": 30.5,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.607686,
+      "upper": 30.3,
+      "pelvis": 0.1,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.6611052,
+      "upper": 30.0,
+      "pelvis": -0.1,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.7144358,
+      "upper": 30.6,
+      "pelvis": -0.2,
+      "curvature": 30.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.7679334,
+      "upper": 30.2,
+      "pelvis": 0.6,
+      "curvature": 29.6,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.8211002,
+      "upper": 30.1,
+      "pelvis": 0.2,
+      "curvature": 29.9,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.8745933,
+      "upper": 30.0,
+      "pelvis": 0.2,
+      "curvature": 29.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.9279685,
+      "upper": 30.2,
+      "pelvis": 0.3,
+      "curvature": 29.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130134.9812393,
+      "upper": 30.5,
+      "pelvis": 0.4,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.03517,
+      "upper": 30.1,
+      "pelvis": 0.1,
+      "curvature": 30.0,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.0910106,
+      "upper": 30.4,
+      "pelvis": 0.1,
+      "curvature": 30.3,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.144437,
+      "upper": 29.8,
+      "pelvis": 0.0,
+      "curvature": 29.8,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.197876,
+      "upper": 30.3,
+      "pelvis": 0.1,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.2513187,
+      "upper": 30.4,
+      "pelvis": 0.3,
+      "curvature": 30.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.3045108,
+      "upper": 30.1,
+      "pelvis": -0.0,
+      "curvature": 30.2,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.3579884,
+      "upper": 29.3,
+      "pelvis": 0.2,
+      "curvature": 29.1,
+      "threshold": 10.2,
+      "led": "RED"
+    },
+    {
+      "t": 1768130135.411276,
+      "upper": 34.1,
+      "pelvis": -0.0,
+      "curvature": 34.1,
+      "threshold": 10.2,
+      "led": "RED"
+    }
+  ]
+}

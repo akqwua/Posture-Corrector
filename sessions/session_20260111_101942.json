@@ -1,0 +1,1230 @@
+{
+  "started_at": "2026-01-11T10:19:42.298940",
+  "ended_at": "2026-01-11T10:19:50.507405",
+  "samples": [
+    {
+      "t": 1768126782.3030205,
+      "upper": 3.3,
+      "pelvis": 1.3,
+      "curvature": 2.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.3560586,
+      "upper": -7.1,
+      "pelvis": 3.6,
+      "curvature": -10.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.409427,
+      "upper": -6.0,
+      "pelvis": 2.2,
+      "curvature": -8.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.4626758,
+      "upper": -7.8,
+      "pelvis": 2.7,
+      "curvature": -10.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.5160024,
+      "upper": -13.7,
+      "pelvis": 3.5,
+      "curvature": -17.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.5694277,
+      "upper": -14.8,
+      "pelvis": 3.1,
+      "curvature": -17.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.6257575,
+      "upper": -8.4,
+      "pelvis": 4.2,
+      "curvature": -12.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.6791508,
+      "upper": -12.7,
+      "pelvis": 5.1,
+      "curvature": -17.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.7325263,
+      "upper": -13.3,
+      "pelvis": 5.9,
+      "curvature": -19.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.785766,
+      "upper": -7.7,
+      "pelvis": 5.1,
+      "curvature": -12.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.8392134,
+      "upper": -8.9,
+      "pelvis": 3.6,
+      "curvature": -12.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.8925736,
+      "upper": -8.0,
+      "pelvis": 1.9,
+      "curvature": -9.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.9457524,
+      "upper": -11.8,
+      "pelvis": -0.2,
+      "curvature": -11.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126782.9992702,
+      "upper": -9.3,
+      "pelvis": -0.2,
+      "curvature": -9.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.052394,
+      "upper": -9.4,
+      "pelvis": -0.4,
+      "curvature": -9.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.1059074,
+      "upper": -10.1,
+      "pelvis": 0.2,
+      "curvature": -10.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.1592822,
+      "upper": -9.6,
+      "pelvis": 0.3,
+      "curvature": -10.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.2156897,
+      "upper": -7.8,
+      "pelvis": 0.1,
+      "curvature": -7.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.2689764,
+      "upper": -10.5,
+      "pelvis": 0.2,
+      "curvature": -10.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.3224907,
+      "upper": -10.9,
+      "pelvis": 0.0,
+      "curvature": -10.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.3756797,
+      "upper": -9.3,
+      "pelvis": 0.0,
+      "curvature": -9.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.4290586,
+      "upper": -9.4,
+      "pelvis": 0.9,
+      "curvature": -10.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.4824483,
+      "upper": -9.9,
+      "pelvis": 0.1,
+      "curvature": -10.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.5357993,
+      "upper": -9.6,
+      "pelvis": 0.2,
+      "curvature": -9.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.589021,
+      "upper": -8.7,
+      "pelvis": -0.1,
+      "curvature": -8.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.642407,
+      "upper": -9.2,
+      "pelvis": -0.2,
+      "curvature": -9.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.69574,
+      "upper": -10.0,
+      "pelvis": -0.1,
+      "curvature": -9.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.7521217,
+      "upper": -8.6,
+      "pelvis": -0.2,
+      "curvature": -8.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.805475,
+      "upper": -9.6,
+      "pelvis": 0.1,
+      "curvature": -9.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.85886,
+      "upper": -11.3,
+      "pelvis": -0.2,
+      "curvature": -11.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.912194,
+      "upper": -10.5,
+      "pelvis": 0.6,
+      "curvature": -11.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126783.965616,
+      "upper": -11.1,
+      "pelvis": 0.0,
+      "curvature": -11.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.0189064,
+      "upper": -9.1,
+      "pelvis": -0.0,
+      "curvature": -9.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.0722551,
+      "upper": -9.7,
+      "pelvis": -0.0,
+      "curvature": -9.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.1256,
+      "upper": -10.0,
+      "pelvis": 0.3,
+      "curvature": -10.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.1790404,
+      "upper": -11.2,
+      "pelvis": -0.1,
+      "curvature": -11.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.2323186,
+      "upper": -10.8,
+      "pelvis": -0.3,
+      "curvature": -10.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.2886965,
+      "upper": -13.7,
+      "pelvis": 0.8,
+      "curvature": -14.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.3421261,
+      "upper": -7.0,
+      "pelvis": 0.0,
+      "curvature": -7.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.3954475,
+      "upper": -13.7,
+      "pelvis": 0.6,
+      "curvature": -14.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.4488237,
+      "upper": -10.9,
+      "pelvis": -0.1,
+      "curvature": -10.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.502131,
+      "upper": -10.9,
+      "pelvis": 0.3,
+      "curvature": -11.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.5554848,
+      "upper": -12.6,
+      "pelvis": 0.6,
+      "curvature": -13.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.6089618,
+      "upper": -10.4,
+      "pelvis": 0.3,
+      "curvature": -10.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.6621456,
+      "upper": -7.5,
+      "pelvis": 0.1,
+      "curvature": -7.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.7155058,
+      "upper": -12.5,
+      "pelvis": 0.2,
+      "curvature": -12.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.7688966,
+      "upper": -10.8,
+      "pelvis": 0.0,
+      "curvature": -10.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.8253582,
+      "upper": -19.1,
+      "pelvis": -0.0,
+      "curvature": -19.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.8786469,
+      "upper": -6.7,
+      "pelvis": 0.3,
+      "curvature": -7.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.932061,
+      "upper": -13.7,
+      "pelvis": 0.4,
+      "curvature": -14.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126784.9853265,
+      "upper": -4.5,
+      "pelvis": 0.0,
+      "curvature": -4.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.0387557,
+      "upper": -15.2,
+      "pelvis": 0.4,
+      "curvature": -15.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.0920954,
+      "upper": -15.6,
+      "pelvis": -0.1,
+      "curvature": -15.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.1454656,
+      "upper": -11.3,
+      "pelvis": 0.5,
+      "curvature": -11.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.1987667,
+      "upper": -9.7,
+      "pelvis": 0.7,
+      "curvature": -10.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.2521675,
+      "upper": -10.7,
+      "pelvis": 0.7,
+      "curvature": -11.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.305522,
+      "upper": -13.9,
+      "pelvis": 4.3,
+      "curvature": -18.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.3619015,
+      "upper": -9.7,
+      "pelvis": -2.9,
+      "curvature": -6.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.4152272,
+      "upper": -9.0,
+      "pelvis": 13.5,
+      "curvature": -22.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.468571,
+      "upper": -7.9,
+      "pelvis": -9.1,
+      "curvature": 1.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.5219986,
+      "upper": -11.0,
+      "pelvis": -2.7,
+      "curvature": -8.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.5752802,
+      "upper": -9.9,
+      "pelvis": -5.2,
+      "curvature": -4.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.628591,
+      "upper": -9.6,
+      "pelvis": -1.9,
+      "curvature": -7.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.6819444,
+      "upper": -10.1,
+      "pelvis": -8.3,
+      "curvature": -1.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.73525,
+      "upper": -9.8,
+      "pelvis": -7.3,
+      "curvature": -2.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.788738,
+      "upper": -11.4,
+      "pelvis": -5.9,
+      "curvature": -5.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.8419924,
+      "upper": -10.3,
+      "pelvis": -6.6,
+      "curvature": -3.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.8984032,
+      "upper": -10.4,
+      "pelvis": -7.4,
+      "curvature": -3.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126785.9517457,
+      "upper": 48.0,
+      "pelvis": -5.0,
+      "curvature": 53.0,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768126786.0055351,
+      "upper": -33.3,
+      "pelvis": -5.2,
+      "curvature": -28.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.0584779,
+      "upper": 15.0,
+      "pelvis": -7.1,
+      "curvature": 22.1,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768126786.1118531,
+      "upper": -41.6,
+      "pelvis": -6.0,
+      "curvature": -35.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.1651783,
+      "upper": 16.4,
+      "pelvis": -7.2,
+      "curvature": 23.6,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768126786.2184873,
+      "upper": -1.3,
+      "pelvis": -6.8,
+      "curvature": 5.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.2720299,
+      "upper": -35.1,
+      "pelvis": -6.3,
+      "curvature": -28.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.3251808,
+      "upper": 1.1,
+      "pelvis": -6.5,
+      "curvature": 7.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.378682,
+      "upper": -20.9,
+      "pelvis": -6.5,
+      "curvature": -14.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.4349709,
+      "upper": -12.3,
+      "pelvis": -7.0,
+      "curvature": -5.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.4883785,
+      "upper": -6.7,
+      "pelvis": -6.1,
+      "curvature": -0.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.541609,
+      "upper": -0.9,
+      "pelvis": -6.7,
+      "curvature": 5.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.5949917,
+      "upper": -24.8,
+      "pelvis": -7.3,
+      "curvature": -17.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.6483154,
+      "upper": -26.4,
+      "pelvis": -5.8,
+      "curvature": -20.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.7018085,
+      "upper": -38.6,
+      "pelvis": -10.7,
+      "curvature": -27.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.7551308,
+      "upper": 3.5,
+      "pelvis": -8.9,
+      "curvature": 12.3,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768126786.8083696,
+      "upper": -14.4,
+      "pelvis": -4.8,
+      "curvature": -9.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.8617628,
+      "upper": -11.6,
+      "pelvis": -5.4,
+      "curvature": -6.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.915137,
+      "upper": -25.2,
+      "pelvis": -7.2,
+      "curvature": -17.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126786.9715517,
+      "upper": -32.9,
+      "pelvis": -7.4,
+      "curvature": -25.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.0248713,
+      "upper": -24.5,
+      "pelvis": -6.4,
+      "curvature": -18.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.078374,
+      "upper": 22.6,
+      "pelvis": -6.9,
+      "curvature": 29.6,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    },
+    {
+      "t": 1768126787.1315212,
+      "upper": -14.8,
+      "pelvis": -8.6,
+      "curvature": -6.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.1849697,
+      "upper": -12.4,
+      "pelvis": -6.6,
+      "curvature": -5.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.2385526,
+      "upper": -33.6,
+      "pelvis": -7.5,
+      "curvature": -26.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.2916143,
+      "upper": -25.2,
+      "pelvis": -7.6,
+      "curvature": -17.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.3450336,
+      "upper": -18.9,
+      "pelvis": -7.4,
+      "curvature": -11.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.3984916,
+      "upper": -20.3,
+      "pelvis": -7.4,
+      "curvature": -12.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.4548101,
+      "upper": -23.0,
+      "pelvis": -8.0,
+      "curvature": -15.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.508218,
+      "upper": -18.0,
+      "pelvis": -7.4,
+      "curvature": -10.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.5616302,
+      "upper": -29.0,
+      "pelvis": -7.4,
+      "curvature": -21.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.6149397,
+      "upper": -22.0,
+      "pelvis": -7.4,
+      "curvature": -14.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.6683009,
+      "upper": -23.8,
+      "pelvis": -6.9,
+      "curvature": -16.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.7216558,
+      "upper": -23.9,
+      "pelvis": -7.4,
+      "curvature": -16.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.7750304,
+      "upper": -23.7,
+      "pelvis": -7.4,
+      "curvature": -16.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.8283203,
+      "upper": -25.7,
+      "pelvis": -7.6,
+      "curvature": -18.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.8819602,
+      "upper": -24.8,
+      "pelvis": -7.9,
+      "curvature": -16.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.9381466,
+      "upper": -25.3,
+      "pelvis": -7.5,
+      "curvature": -17.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126787.991542,
+      "upper": -24.7,
+      "pelvis": -7.9,
+      "curvature": -16.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.0448585,
+      "upper": -24.8,
+      "pelvis": -7.2,
+      "curvature": -17.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.098162,
+      "upper": -22.1,
+      "pelvis": -7.5,
+      "curvature": -14.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.1516707,
+      "upper": -24.1,
+      "pelvis": -7.7,
+      "curvature": -16.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.2048726,
+      "upper": -24.9,
+      "pelvis": -7.9,
+      "curvature": -17.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.2582738,
+      "upper": -24.5,
+      "pelvis": -7.2,
+      "curvature": -17.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.3116693,
+      "upper": -26.9,
+      "pelvis": -7.4,
+      "curvature": -19.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.3648782,
+      "upper": -25.5,
+      "pelvis": -7.8,
+      "curvature": -17.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.4184673,
+      "upper": -23.7,
+      "pelvis": -7.7,
+      "curvature": -16.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.4747798,
+      "upper": -25.0,
+      "pelvis": -6.1,
+      "curvature": -18.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.5281715,
+      "upper": -23.1,
+      "pelvis": -7.6,
+      "curvature": -15.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.5816405,
+      "upper": -24.6,
+      "pelvis": -7.2,
+      "curvature": -17.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.6348727,
+      "upper": -24.7,
+      "pelvis": -7.4,
+      "curvature": -17.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.6888545,
+      "upper": -26.2,
+      "pelvis": -8.0,
+      "curvature": -18.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.741639,
+      "upper": -27.5,
+      "pelvis": -7.7,
+      "curvature": -19.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.7949564,
+      "upper": -25.1,
+      "pelvis": -8.0,
+      "curvature": -17.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.8483777,
+      "upper": -27.1,
+      "pelvis": -7.8,
+      "curvature": -19.3,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.9014258,
+      "upper": -26.4,
+      "pelvis": -7.6,
+      "curvature": -18.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126788.9580853,
+      "upper": -26.6,
+      "pelvis": -8.1,
+      "curvature": -18.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.0115578,
+      "upper": -26.5,
+      "pelvis": -7.5,
+      "curvature": -19.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.064722,
+      "upper": -27.1,
+      "pelvis": -7.4,
+      "curvature": -19.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.1180503,
+      "upper": -27.3,
+      "pelvis": -7.5,
+      "curvature": -19.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.171873,
+      "upper": -26.1,
+      "pelvis": -7.5,
+      "curvature": -18.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.2249303,
+      "upper": -27.7,
+      "pelvis": -7.9,
+      "curvature": -19.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.2782726,
+      "upper": -29.2,
+      "pelvis": -8.7,
+      "curvature": -20.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.3316848,
+      "upper": -26.3,
+      "pelvis": -7.7,
+      "curvature": -18.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.3849704,
+      "upper": -27.1,
+      "pelvis": -7.5,
+      "curvature": -19.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.441505,
+      "upper": -26.0,
+      "pelvis": -7.8,
+      "curvature": -18.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.4947605,
+      "upper": -28.7,
+      "pelvis": -7.6,
+      "curvature": -21.1,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.5481358,
+      "upper": -26.5,
+      "pelvis": -8.0,
+      "curvature": -18.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.6015024,
+      "upper": -27.0,
+      "pelvis": -7.1,
+      "curvature": -19.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.6549118,
+      "upper": -27.4,
+      "pelvis": -8.6,
+      "curvature": -18.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.7081494,
+      "upper": -26.3,
+      "pelvis": -7.8,
+      "curvature": -18.4,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.7620118,
+      "upper": -28.1,
+      "pelvis": -7.6,
+      "curvature": -20.5,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.814863,
+      "upper": -25.7,
+      "pelvis": -8.1,
+      "curvature": -17.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.8683703,
+      "upper": -27.6,
+      "pelvis": -8.0,
+      "curvature": -19.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.924714,
+      "upper": -26.3,
+      "pelvis": -8.1,
+      "curvature": -18.2,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126789.9783866,
+      "upper": -26.8,
+      "pelvis": -8.0,
+      "curvature": -18.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.0320342,
+      "upper": -27.0,
+      "pelvis": -8.0,
+      "curvature": -19.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.084759,
+      "upper": -28.4,
+      "pelvis": -7.7,
+      "curvature": -20.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.1381862,
+      "upper": -28.7,
+      "pelvis": -8.0,
+      "curvature": -20.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.195024,
+      "upper": -27.8,
+      "pelvis": -8.1,
+      "curvature": -19.6,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.2449262,
+      "upper": -28.3,
+      "pelvis": -7.7,
+      "curvature": -20.7,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.2985528,
+      "upper": -27.3,
+      "pelvis": -8.4,
+      "curvature": -18.9,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.3548286,
+      "upper": -28.6,
+      "pelvis": -7.8,
+      "curvature": -20.8,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.4080987,
+      "upper": -28.3,
+      "pelvis": -8.3,
+      "curvature": -20.0,
+      "threshold": 7.7,
+      "led": "GREEN"
+    },
+    {
+      "t": 1768126790.4614902,
+      "upper": 131.6,
+      "pelvis": -7.6,
+      "curvature": 139.2,
+      "threshold": 7.7,
+      "led": "YELLOW"
+    }
+  ]
+}

@@ -1,0 +1,2759 @@
+{
+  "user_id": 1,
+  "session_start": 1768129206.858349,
+  "session_end": 1768129225.346137,
+  "data": [
+    {
+      "timestamp": 1768129206.8654475,
+      "upper": 22.3,
+      "pelvis": 0.5,
+      "curvature": 21.8,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129206.9153583,
+      "upper": 20.5,
+      "pelvis": -0.6,
+      "curvature": 21.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129206.9718688,
+      "upper": 15.3,
+      "pelvis": 0.6,
+      "curvature": 14.7,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.0251799,
+      "upper": 9.5,
+      "pelvis": 0.3,
+      "curvature": 9.2,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.0793364,
+      "upper": 5.1,
+      "pelvis": -0.3,
+      "curvature": 5.4,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.1318378,
+      "upper": 1.0,
+      "pelvis": -1.5,
+      "curvature": 2.5,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.1851637,
+      "upper": 4.3,
+      "pelvis": 2.9,
+      "curvature": 1.4,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.2385876,
+      "upper": 3.3,
+      "pelvis": -1.2,
+      "curvature": 4.5,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.2919407,
+      "upper": 0.2,
+      "pelvis": 0.9,
+      "curvature": -0.7,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.3454077,
+      "upper": 0.8,
+      "pelvis": -0.3,
+      "curvature": 1.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.3985507,
+      "upper": 0.2,
+      "pelvis": 0.2,
+      "curvature": -0.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.4519408,
+      "upper": 0.4,
+      "pelvis": 0.1,
+      "curvature": 0.3,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.5083678,
+      "upper": -0.5,
+      "pelvis": 0.1,
+      "curvature": -0.7,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.5616713,
+      "upper": 0.0,
+      "pelvis": -0.1,
+      "curvature": 0.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.614975,
+      "upper": 7.4,
+      "pelvis": -0.0,
+      "curvature": 7.4,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.668341,
+      "upper": 9.7,
+      "pelvis": 0.1,
+      "curvature": 9.5,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.721586,
+      "upper": 16.1,
+      "pelvis": -0.1,
+      "curvature": 16.2,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.77515,
+      "upper": 29.5,
+      "pelvis": 0.6,
+      "curvature": 28.9,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129207.8285112,
+      "upper": 42.2,
+      "pelvis": 0.9,
+      "curvature": 41.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129207.8818755,
+      "upper": 39.2,
+      "pelvis": 0.3,
+      "curvature": 38.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129207.9353309,
+      "upper": 46.9,
+      "pelvis": -0.3,
+      "curvature": 47.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129207.9915998,
+      "upper": 48.7,
+      "pelvis": 2.2,
+      "curvature": 46.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.0449996,
+      "upper": 46.8,
+      "pelvis": 2.5,
+      "curvature": 44.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.0985403,
+      "upper": 51.7,
+      "pelvis": -0.3,
+      "curvature": 52.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.151789,
+      "upper": 51.4,
+      "pelvis": 1.2,
+      "curvature": 50.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.2051113,
+      "upper": 54.9,
+      "pelvis": 1.9,
+      "curvature": 53.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.2585967,
+      "upper": 55.8,
+      "pelvis": -1.7,
+      "curvature": 57.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.3119247,
+      "upper": 62.2,
+      "pelvis": -0.2,
+      "curvature": 62.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.3652182,
+      "upper": 68.4,
+      "pelvis": 0.1,
+      "curvature": 68.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.418797,
+      "upper": 70.8,
+      "pelvis": 0.2,
+      "curvature": 70.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.4750977,
+      "upper": 72.6,
+      "pelvis": 0.7,
+      "curvature": 71.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.5284247,
+      "upper": 74.8,
+      "pelvis": -2.0,
+      "curvature": 76.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.581811,
+      "upper": 77.2,
+      "pelvis": 0.7,
+      "curvature": 76.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.63518,
+      "upper": 76.4,
+      "pelvis": -1.1,
+      "curvature": 77.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.6885579,
+      "upper": 76.0,
+      "pelvis": -0.0,
+      "curvature": 76.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.7421997,
+      "upper": 77.5,
+      "pelvis": -0.7,
+      "curvature": 78.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.7955153,
+      "upper": 78.3,
+      "pelvis": 1.5,
+      "curvature": 76.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.8486474,
+      "upper": 78.5,
+      "pelvis": 0.1,
+      "curvature": 78.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.9051762,
+      "upper": 78.2,
+      "pelvis": -0.8,
+      "curvature": 79.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129208.9587898,
+      "upper": 78.4,
+      "pelvis": -0.2,
+      "curvature": 78.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.0118382,
+      "upper": 78.1,
+      "pelvis": 0.5,
+      "curvature": 77.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.0653343,
+      "upper": 78.6,
+      "pelvis": -0.8,
+      "curvature": 79.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.1189196,
+      "upper": 78.4,
+      "pelvis": -0.4,
+      "curvature": 78.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.1720624,
+      "upper": 79.7,
+      "pelvis": 2.2,
+      "curvature": 77.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.2254493,
+      "upper": 82.8,
+      "pelvis": -0.8,
+      "curvature": 83.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.2817974,
+      "upper": 80.2,
+      "pelvis": -0.0,
+      "curvature": 80.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.3352938,
+      "upper": 82.1,
+      "pelvis": -0.0,
+      "curvature": 82.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.3893547,
+      "upper": 81.7,
+      "pelvis": 0.2,
+      "curvature": 81.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.4426823,
+      "upper": 81.8,
+      "pelvis": -0.1,
+      "curvature": 81.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.4951363,
+      "upper": 81.7,
+      "pelvis": 0.0,
+      "curvature": 81.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.5487041,
+      "upper": 82.2,
+      "pelvis": -0.2,
+      "curvature": 82.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.6019013,
+      "upper": 82.6,
+      "pelvis": -0.1,
+      "curvature": 82.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.6554556,
+      "upper": 88.9,
+      "pelvis": -0.2,
+      "curvature": 89.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.7118862,
+      "upper": 78.0,
+      "pelvis": -0.3,
+      "curvature": 78.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.765253,
+      "upper": 84.1,
+      "pelvis": 0.3,
+      "curvature": 83.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.818618,
+      "upper": 84.1,
+      "pelvis": 0.1,
+      "curvature": 84.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.872322,
+      "upper": 83.9,
+      "pelvis": 0.2,
+      "curvature": 83.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.9255288,
+      "upper": 86.8,
+      "pelvis": 0.0,
+      "curvature": 86.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129209.9789798,
+      "upper": 84.9,
+      "pelvis": 0.2,
+      "curvature": 84.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.0320983,
+      "upper": 87.2,
+      "pelvis": 0.1,
+      "curvature": 87.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.0854537,
+      "upper": 86.0,
+      "pelvis": -0.1,
+      "curvature": 86.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.138935,
+      "upper": 89.1,
+      "pelvis": -0.2,
+      "curvature": 89.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.1952908,
+      "upper": 88.6,
+      "pelvis": 0.0,
+      "curvature": 88.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.2487776,
+      "upper": 87.0,
+      "pelvis": -0.2,
+      "curvature": 87.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.3022604,
+      "upper": 86.1,
+      "pelvis": -0.4,
+      "curvature": 86.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.355509,
+      "upper": 86.6,
+      "pelvis": -0.5,
+      "curvature": 87.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.4091127,
+      "upper": 85.9,
+      "pelvis": 0.1,
+      "curvature": 85.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.4621572,
+      "upper": 86.1,
+      "pelvis": -0.2,
+      "curvature": 86.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.515678,
+      "upper": 84.6,
+      "pelvis": 0.3,
+      "curvature": 84.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.5689728,
+      "upper": 86.7,
+      "pelvis": -0.1,
+      "curvature": 86.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.6256566,
+      "upper": 86.4,
+      "pelvis": -0.2,
+      "curvature": 86.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.6787486,
+      "upper": 86.7,
+      "pelvis": -0.3,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.7321002,
+      "upper": 86.9,
+      "pelvis": 0.4,
+      "curvature": 86.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.7856398,
+      "upper": 86.2,
+      "pelvis": 0.2,
+      "curvature": 86.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.8393123,
+      "upper": 87.0,
+      "pelvis": 0.5,
+      "curvature": 86.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.8922446,
+      "upper": 87.0,
+      "pelvis": 0.3,
+      "curvature": 86.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.9456494,
+      "upper": 86.7,
+      "pelvis": -0.1,
+      "curvature": 86.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129210.9994235,
+      "upper": 85.7,
+      "pelvis": -0.0,
+      "curvature": 85.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.0554588,
+      "upper": 86.8,
+      "pelvis": -0.1,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.1089747,
+      "upper": 85.5,
+      "pelvis": 0.0,
+      "curvature": 85.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.1622567,
+      "upper": 86.2,
+      "pelvis": -0.2,
+      "curvature": 86.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.215532,
+      "upper": 86.4,
+      "pelvis": -0.5,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.2688394,
+      "upper": 86.5,
+      "pelvis": -0.2,
+      "curvature": 86.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.3223538,
+      "upper": 85.6,
+      "pelvis": -0.5,
+      "curvature": 86.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.3756962,
+      "upper": 84.7,
+      "pelvis": -0.1,
+      "curvature": 84.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.429082,
+      "upper": 86.0,
+      "pelvis": -0.3,
+      "curvature": 86.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.4854088,
+      "upper": 86.5,
+      "pelvis": 0.0,
+      "curvature": 86.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.5390112,
+      "upper": 86.8,
+      "pelvis": 0.0,
+      "curvature": 86.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.5923498,
+      "upper": 85.2,
+      "pelvis": -0.2,
+      "curvature": 85.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.6457415,
+      "upper": 86.7,
+      "pelvis": 0.1,
+      "curvature": 86.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.699534,
+      "upper": 87.3,
+      "pelvis": 0.1,
+      "curvature": 87.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.752375,
+      "upper": 87.0,
+      "pelvis": 0.0,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.805686,
+      "upper": 87.2,
+      "pelvis": 0.1,
+      "curvature": 87.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.859047,
+      "upper": 87.0,
+      "pelvis": -0.3,
+      "curvature": 87.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.9155293,
+      "upper": 87.8,
+      "pelvis": 0.0,
+      "curvature": 87.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129211.9689252,
+      "upper": 86.4,
+      "pelvis": -0.1,
+      "curvature": 86.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.022351,
+      "upper": 86.8,
+      "pelvis": -0.0,
+      "curvature": 86.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.0756426,
+      "upper": 87.1,
+      "pelvis": 0.1,
+      "curvature": 87.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.1289306,
+      "upper": 86.6,
+      "pelvis": -0.2,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.1825101,
+      "upper": 87.5,
+      "pelvis": 0.0,
+      "curvature": 87.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.2357929,
+      "upper": 86.2,
+      "pelvis": -0.2,
+      "curvature": 86.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.2892041,
+      "upper": 86.8,
+      "pelvis": -0.1,
+      "curvature": 86.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.3455832,
+      "upper": 86.7,
+      "pelvis": -0.3,
+      "curvature": 87.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.3991623,
+      "upper": 87.4,
+      "pelvis": -0.2,
+      "curvature": 87.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.4522202,
+      "upper": 86.7,
+      "pelvis": 0.1,
+      "curvature": 86.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.5055673,
+      "upper": 86.7,
+      "pelvis": -0.1,
+      "curvature": 86.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.5590806,
+      "upper": 86.2,
+      "pelvis": -0.3,
+      "curvature": 86.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.6124487,
+      "upper": 87.5,
+      "pelvis": -0.2,
+      "curvature": 87.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.6655264,
+      "upper": 85.9,
+      "pelvis": 0.3,
+      "curvature": 85.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.7192483,
+      "upper": 85.9,
+      "pelvis": -0.3,
+      "curvature": 86.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.7724428,
+      "upper": 86.6,
+      "pelvis": 0.0,
+      "curvature": 86.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.829144,
+      "upper": 86.9,
+      "pelvis": -0.1,
+      "curvature": 87.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.8823843,
+      "upper": 86.3,
+      "pelvis": -0.2,
+      "curvature": 86.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.9357462,
+      "upper": 86.5,
+      "pelvis": 0.2,
+      "curvature": 86.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129212.9899147,
+      "upper": 85.8,
+      "pelvis": -0.2,
+      "curvature": 86.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.0424569,
+      "upper": 86.2,
+      "pelvis": 0.1,
+      "curvature": 86.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.0958805,
+      "upper": 85.5,
+      "pelvis": -0.2,
+      "curvature": 85.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.1490548,
+      "upper": 85.6,
+      "pelvis": -0.1,
+      "curvature": 85.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.2026358,
+      "upper": 86.0,
+      "pelvis": 0.8,
+      "curvature": 85.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.258976,
+      "upper": 86.0,
+      "pelvis": 1.0,
+      "curvature": 85.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.3124585,
+      "upper": 86.0,
+      "pelvis": -0.1,
+      "curvature": 86.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.3658204,
+      "upper": 87.4,
+      "pelvis": -0.3,
+      "curvature": 87.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.4190886,
+      "upper": 86.2,
+      "pelvis": 0.3,
+      "curvature": 85.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.4726393,
+      "upper": 86.1,
+      "pelvis": 0.1,
+      "curvature": 86.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.5259614,
+      "upper": 87.5,
+      "pelvis": -0.3,
+      "curvature": 87.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.5793123,
+      "upper": 87.8,
+      "pelvis": -0.2,
+      "curvature": 87.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.6325278,
+      "upper": 87.9,
+      "pelvis": 0.3,
+      "curvature": 87.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.6892169,
+      "upper": 91.0,
+      "pelvis": -0.1,
+      "curvature": 91.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.7423964,
+      "upper": 90.2,
+      "pelvis": 0.0,
+      "curvature": 90.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.795822,
+      "upper": 91.4,
+      "pelvis": -0.3,
+      "curvature": 91.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.8492684,
+      "upper": 91.5,
+      "pelvis": -0.4,
+      "curvature": 91.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.9026513,
+      "upper": 96.5,
+      "pelvis": 0.3,
+      "curvature": 96.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129213.9560282,
+      "upper": 95.7,
+      "pelvis": -0.5,
+      "curvature": 96.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.0093994,
+      "upper": 97.8,
+      "pelvis": 0.1,
+      "curvature": 97.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.0628343,
+      "upper": 98.5,
+      "pelvis": 0.1,
+      "curvature": 98.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.1191535,
+      "upper": 100.1,
+      "pelvis": -0.0,
+      "curvature": 100.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.172587,
+      "upper": 100.1,
+      "pelvis": -0.1,
+      "curvature": 100.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.2259626,
+      "upper": 99.9,
+      "pelvis": -0.5,
+      "curvature": 100.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.2793293,
+      "upper": 99.1,
+      "pelvis": -0.1,
+      "curvature": 99.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.3327193,
+      "upper": 99.1,
+      "pelvis": -0.2,
+      "curvature": 99.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.3860908,
+      "upper": 99.7,
+      "pelvis": 0.2,
+      "curvature": 99.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.439446,
+      "upper": 99.8,
+      "pelvis": -0.2,
+      "curvature": 100.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.4959023,
+      "upper": 100.0,
+      "pelvis": 0.0,
+      "curvature": 99.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.5492506,
+      "upper": 99.3,
+      "pelvis": -0.1,
+      "curvature": 99.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.6030698,
+      "upper": 98.7,
+      "pelvis": -0.1,
+      "curvature": 98.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.6559892,
+      "upper": 100.2,
+      "pelvis": -0.2,
+      "curvature": 100.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.7094731,
+      "upper": 99.2,
+      "pelvis": -0.3,
+      "curvature": 99.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.7632103,
+      "upper": 98.2,
+      "pelvis": -0.1,
+      "curvature": 98.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.816246,
+      "upper": 100.2,
+      "pelvis": -0.2,
+      "curvature": 100.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.8696923,
+      "upper": 99.3,
+      "pelvis": 0.2,
+      "curvature": 99.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.925924,
+      "upper": 99.5,
+      "pelvis": -0.3,
+      "curvature": 99.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129214.979691,
+      "upper": 99.5,
+      "pelvis": 0.1,
+      "curvature": 99.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.0327413,
+      "upper": 99.8,
+      "pelvis": -0.1,
+      "curvature": 99.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.086116,
+      "upper": 100.1,
+      "pelvis": 0.2,
+      "curvature": 99.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.139615,
+      "upper": 98.9,
+      "pelvis": -0.2,
+      "curvature": 99.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.1929407,
+      "upper": 97.4,
+      "pelvis": 0.1,
+      "curvature": 97.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.2467892,
+      "upper": 98.1,
+      "pelvis": -0.2,
+      "curvature": 98.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.2995899,
+      "upper": 97.5,
+      "pelvis": 0.1,
+      "curvature": 97.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.3560312,
+      "upper": 93.4,
+      "pelvis": 0.1,
+      "curvature": 93.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.4094234,
+      "upper": 91.1,
+      "pelvis": -0.0,
+      "curvature": 91.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.4628875,
+      "upper": 89.3,
+      "pelvis": 0.1,
+      "curvature": 89.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.516456,
+      "upper": 86.3,
+      "pelvis": -0.2,
+      "curvature": 86.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.5699933,
+      "upper": 82.9,
+      "pelvis": -0.2,
+      "curvature": 83.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.6228924,
+      "upper": 80.4,
+      "pelvis": -0.0,
+      "curvature": 80.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.6763477,
+      "upper": 78.8,
+      "pelvis": -0.0,
+      "curvature": 78.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.7301054,
+      "upper": 76.4,
+      "pelvis": -0.3,
+      "curvature": 76.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.7861168,
+      "upper": 74.5,
+      "pelvis": -0.2,
+      "curvature": 74.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129215.8395512,
+      "upper": 72.9,
+      "pelvis": 0.2,
+      "curvature": 72.7,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129215.892854,
+      "upper": 72.7,
+      "pelvis": -0.1,
+      "curvature": 72.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129215.946168,
+      "upper": 69.7,
+      "pelvis": -0.2,
+      "curvature": 69.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129215.9997885,
+      "upper": 67.9,
+      "pelvis": 0.1,
+      "curvature": 67.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.0528374,
+      "upper": 67.1,
+      "pelvis": -0.3,
+      "curvature": 67.4,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.1062953,
+      "upper": 66.5,
+      "pelvis": -0.1,
+      "curvature": 66.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.1601024,
+      "upper": 67.6,
+      "pelvis": -0.3,
+      "curvature": 67.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.2131584,
+      "upper": 66.8,
+      "pelvis": -0.4,
+      "curvature": 67.2,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.2695155,
+      "upper": 67.8,
+      "pelvis": 0.1,
+      "curvature": 67.7,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.3228042,
+      "upper": 66.9,
+      "pelvis": -0.2,
+      "curvature": 67.0,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.3761842,
+      "upper": 67.0,
+      "pelvis": 0.1,
+      "curvature": 66.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.4295542,
+      "upper": 66.7,
+      "pelvis": -0.2,
+      "curvature": 66.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.4830923,
+      "upper": 67.4,
+      "pelvis": -0.1,
+      "curvature": 67.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.5363345,
+      "upper": 68.4,
+      "pelvis": 0.1,
+      "curvature": 68.3,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.5896492,
+      "upper": 67.3,
+      "pelvis": -0.4,
+      "curvature": 67.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.643087,
+      "upper": 67.6,
+      "pelvis": -0.1,
+      "curvature": 67.7,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.6993704,
+      "upper": 67.6,
+      "pelvis": 0.0,
+      "curvature": 67.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.7528338,
+      "upper": 66.6,
+      "pelvis": -0.2,
+      "curvature": 66.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.8062975,
+      "upper": 67.0,
+      "pelvis": -0.1,
+      "curvature": 67.1,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.8595808,
+      "upper": 66.1,
+      "pelvis": -0.1,
+      "curvature": 66.2,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.9129448,
+      "upper": 67.0,
+      "pelvis": 0.1,
+      "curvature": 66.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129216.9663088,
+      "upper": 66.7,
+      "pelvis": -0.1,
+      "curvature": 66.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.019701,
+      "upper": 67.4,
+      "pelvis": -0.0,
+      "curvature": 67.4,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.0733876,
+      "upper": 66.9,
+      "pelvis": -0.1,
+      "curvature": 67.1,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.126435,
+      "upper": 66.7,
+      "pelvis": 0.2,
+      "curvature": 66.5,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.1828237,
+      "upper": 66.2,
+      "pelvis": -0.1,
+      "curvature": 66.3,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.2362292,
+      "upper": 66.6,
+      "pelvis": -0.4,
+      "curvature": 66.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.2896943,
+      "upper": 66.2,
+      "pelvis": -0.1,
+      "curvature": 66.3,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.343019,
+      "upper": 67.2,
+      "pelvis": -0.2,
+      "curvature": 67.4,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.3962379,
+      "upper": 67.0,
+      "pelvis": 0.0,
+      "curvature": 67.0,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.4497414,
+      "upper": 66.5,
+      "pelvis": -0.1,
+      "curvature": 66.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.5032887,
+      "upper": 66.9,
+      "pelvis": -0.3,
+      "curvature": 67.3,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.5562506,
+      "upper": 65.7,
+      "pelvis": -0.1,
+      "curvature": 65.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.6128893,
+      "upper": 67.2,
+      "pelvis": -0.2,
+      "curvature": 67.5,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.6662228,
+      "upper": 66.3,
+      "pelvis": -0.2,
+      "curvature": 66.5,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.7197316,
+      "upper": 65.8,
+      "pelvis": -0.0,
+      "curvature": 65.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.7729793,
+      "upper": 66.5,
+      "pelvis": -0.1,
+      "curvature": 66.5,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.8264027,
+      "upper": 66.0,
+      "pelvis": -0.4,
+      "curvature": 66.4,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.879699,
+      "upper": 66.2,
+      "pelvis": -0.2,
+      "curvature": 66.4,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.933621,
+      "upper": 66.4,
+      "pelvis": 0.2,
+      "curvature": 66.2,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129217.9862626,
+      "upper": 65.7,
+      "pelvis": -0.3,
+      "curvature": 66.1,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.0399225,
+      "upper": 63.5,
+      "pelvis": -0.1,
+      "curvature": 63.6,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.0962856,
+      "upper": 61.2,
+      "pelvis": -0.2,
+      "curvature": 61.3,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.149848,
+      "upper": 63.8,
+      "pelvis": -0.1,
+      "curvature": 63.9,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.2030149,
+      "upper": 58.6,
+      "pelvis": -0.2,
+      "curvature": 58.8,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.256305,
+      "upper": 49.9,
+      "pelvis": -0.2,
+      "curvature": 50.1,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.3100812,
+      "upper": 40.4,
+      "pelvis": -0.6,
+      "curvature": 41.0,
+      "threshold": 35.0,
+      "led": "RED"
+    },
+    {
+      "timestamp": 1768129218.363185,
+      "upper": 33.0,
+      "pelvis": -0.2,
+      "curvature": 33.2,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.4165115,
+      "upper": 27.7,
+      "pelvis": -0.5,
+      "curvature": 28.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.4697537,
+      "upper": 29.2,
+      "pelvis": -0.2,
+      "curvature": 29.5,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.5263863,
+      "upper": 27.7,
+      "pelvis": -0.4,
+      "curvature": 28.1,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.579642,
+      "upper": 27.5,
+      "pelvis": -0.9,
+      "curvature": 28.4,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.633344,
+      "upper": 27.9,
+      "pelvis": 0.6,
+      "curvature": 27.3,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.6862435,
+      "upper": 29.3,
+      "pelvis": 1.7,
+      "curvature": 27.6,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.7401843,
+      "upper": 28.0,
+      "pelvis": -0.7,
+      "curvature": 28.7,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.7930615,
+      "upper": 28.4,
+      "pelvis": -0.3,
+      "curvature": 28.7,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.8464313,
+      "upper": 28.2,
+      "pelvis": -0.6,
+      "curvature": 28.9,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.900394,
+      "upper": 29.7,
+      "pelvis": 0.2,
+      "curvature": 29.5,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129218.9532256,
+      "upper": 29.4,
+      "pelvis": -0.1,
+      "curvature": 29.6,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129219.0096605,
+      "upper": 31.1,
+      "pelvis": -1.0,
+      "curvature": 32.0,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129219.0629458,
+      "upper": 32.2,
+      "pelvis": 0.2,
+      "curvature": 32.0,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129219.1163263,
+      "upper": 33.9,
+      "pelvis": 0.1,
+      "curvature": 33.8,
+      "threshold": 35.0,
+      "led": "GREEN"
+    },
+    {
+      "timestamp": 1768129219.1697898,
+      "upper": 38.3,
+      "pelvis": -0.0,
+      "curvature": 38.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.2231455,
+      "upper": 46.9,
+      "pelvis": 0.1,
+      "curvature": 46.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.276504,
+      "upper": 53.3,
+      "pelvis": 0.1,
+      "curvature": 53.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.3299744,
+      "upper": 53.6,
+      "pelvis": -0.2,
+      "curvature": 53.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.3832402,
+      "upper": 59.6,
+      "pelvis": -1.7,
+      "curvature": 61.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.4397156,
+      "upper": 66.1,
+      "pelvis": 0.2,
+      "curvature": 65.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.493054,
+      "upper": 69.6,
+      "pelvis": -0.0,
+      "curvature": 69.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.5463257,
+      "upper": 68.2,
+      "pelvis": 0.2,
+      "curvature": 68.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.599899,
+      "upper": 70.0,
+      "pelvis": -0.2,
+      "curvature": 70.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.653126,
+      "upper": 72.7,
+      "pelvis": 0.3,
+      "curvature": 72.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.7068515,
+      "upper": 74.3,
+      "pelvis": 0.1,
+      "curvature": 74.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.7601738,
+      "upper": 73.6,
+      "pelvis": 0.0,
+      "curvature": 73.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.8132663,
+      "upper": 73.7,
+      "pelvis": -1.0,
+      "curvature": 74.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.8697388,
+      "upper": 74.3,
+      "pelvis": 0.0,
+      "curvature": 74.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.923137,
+      "upper": 75.3,
+      "pelvis": -0.4,
+      "curvature": 75.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129219.976503,
+      "upper": 74.3,
+      "pelvis": 0.1,
+      "curvature": 74.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.0299509,
+      "upper": 75.6,
+      "pelvis": -0.3,
+      "curvature": 76.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.0835607,
+      "upper": 74.9,
+      "pelvis": 0.3,
+      "curvature": 74.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.1365824,
+      "upper": 73.6,
+      "pelvis": 0.3,
+      "curvature": 73.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.1900365,
+      "upper": 70.5,
+      "pelvis": -0.3,
+      "curvature": 70.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.2433789,
+      "upper": 68.8,
+      "pelvis": -0.4,
+      "curvature": 69.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.3002326,
+      "upper": 70.9,
+      "pelvis": 0.4,
+      "curvature": 70.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.3535614,
+      "upper": 72.8,
+      "pelvis": -2.0,
+      "curvature": 74.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.4065287,
+      "upper": 66.3,
+      "pelvis": 3.7,
+      "curvature": 62.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.4599886,
+      "upper": 63.3,
+      "pelvis": -0.1,
+      "curvature": 63.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.5131745,
+      "upper": 63.5,
+      "pelvis": -0.2,
+      "curvature": 63.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.566617,
+      "upper": 62.4,
+      "pelvis": 0.4,
+      "curvature": 62.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.6201718,
+      "upper": 61.5,
+      "pelvis": -0.2,
+      "curvature": 61.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.67339,
+      "upper": 60.9,
+      "pelvis": -0.3,
+      "curvature": 61.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.7298334,
+      "upper": 63.0,
+      "pelvis": 0.1,
+      "curvature": 62.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.7832139,
+      "upper": 61.7,
+      "pelvis": 0.3,
+      "curvature": 61.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.8365638,
+      "upper": 62.4,
+      "pelvis": -0.4,
+      "curvature": 62.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.8901598,
+      "upper": 62.2,
+      "pelvis": -0.2,
+      "curvature": 62.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.9431312,
+      "upper": 61.4,
+      "pelvis": -0.0,
+      "curvature": 61.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129220.9967225,
+      "upper": 62.3,
+      "pelvis": 0.0,
+      "curvature": 62.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.0504467,
+      "upper": 60.9,
+      "pelvis": -0.0,
+      "curvature": 61.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.1035266,
+      "upper": 63.4,
+      "pelvis": -0.1,
+      "curvature": 63.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.1600003,
+      "upper": 62.6,
+      "pelvis": 0.4,
+      "curvature": 62.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.213612,
+      "upper": 63.6,
+      "pelvis": 0.2,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.2666667,
+      "upper": 62.2,
+      "pelvis": 0.0,
+      "curvature": 62.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.3201408,
+      "upper": 62.3,
+      "pelvis": 0.1,
+      "curvature": 62.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.3734598,
+      "upper": 106.7,
+      "pelvis": 0.0,
+      "curvature": 106.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.426583,
+      "upper": 61.5,
+      "pelvis": 0.3,
+      "curvature": 61.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.4801672,
+      "upper": 63.8,
+      "pelvis": -0.1,
+      "curvature": 63.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.5339835,
+      "upper": 62.2,
+      "pelvis": -0.2,
+      "curvature": 62.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.5899622,
+      "upper": 62.6,
+      "pelvis": -0.2,
+      "curvature": 62.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.6432872,
+      "upper": 61.8,
+      "pelvis": -0.4,
+      "curvature": 62.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.696853,
+      "upper": 62.2,
+      "pelvis": 0.1,
+      "curvature": 62.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.7501497,
+      "upper": 61.5,
+      "pelvis": -0.3,
+      "curvature": 61.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.8034399,
+      "upper": 63.9,
+      "pelvis": -0.2,
+      "curvature": 64.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.8571749,
+      "upper": 63.9,
+      "pelvis": -0.1,
+      "curvature": 64.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.9103642,
+      "upper": 63.5,
+      "pelvis": -0.0,
+      "curvature": 63.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129221.963543,
+      "upper": 63.4,
+      "pelvis": -0.3,
+      "curvature": 63.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.0203226,
+      "upper": 63.4,
+      "pelvis": 0.0,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.0740764,
+      "upper": 63.5,
+      "pelvis": 0.2,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.1267126,
+      "upper": 63.9,
+      "pelvis": 0.1,
+      "curvature": 63.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.1800387,
+      "upper": 63.6,
+      "pelvis": -0.4,
+      "curvature": 63.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.2334397,
+      "upper": 63.4,
+      "pelvis": -0.0,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.2869625,
+      "upper": 63.3,
+      "pelvis": -0.0,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.3401926,
+      "upper": 64.0,
+      "pelvis": 0.1,
+      "curvature": 63.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.3936038,
+      "upper": 63.9,
+      "pelvis": -0.1,
+      "curvature": 64.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.4469109,
+      "upper": 63.6,
+      "pelvis": 0.4,
+      "curvature": 63.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.503666,
+      "upper": 63.3,
+      "pelvis": -0.0,
+      "curvature": 63.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.5568,
+      "upper": 62.9,
+      "pelvis": -0.0,
+      "curvature": 63.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.6100492,
+      "upper": 65.0,
+      "pelvis": 0.3,
+      "curvature": 64.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.6635647,
+      "upper": 63.1,
+      "pelvis": -0.3,
+      "curvature": 63.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.7168493,
+      "upper": 64.6,
+      "pelvis": -0.1,
+      "curvature": 64.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.7702813,
+      "upper": 63.9,
+      "pelvis": -0.0,
+      "curvature": 64.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.82365,
+      "upper": 64.0,
+      "pelvis": 0.0,
+      "curvature": 64.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.8769243,
+      "upper": 64.4,
+      "pelvis": -0.1,
+      "curvature": 64.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.9334922,
+      "upper": 63.8,
+      "pelvis": -0.7,
+      "curvature": 64.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129222.9869766,
+      "upper": 63.7,
+      "pelvis": -0.1,
+      "curvature": 63.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.0402088,
+      "upper": 64.2,
+      "pelvis": -0.4,
+      "curvature": 64.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.093603,
+      "upper": 63.6,
+      "pelvis": 0.0,
+      "curvature": 63.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.1469388,
+      "upper": 64.2,
+      "pelvis": -0.2,
+      "curvature": 64.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.2002747,
+      "upper": 64.2,
+      "pelvis": 0.1,
+      "curvature": 64.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.2544153,
+      "upper": 64.3,
+      "pelvis": -0.5,
+      "curvature": 64.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.3068361,
+      "upper": 64.8,
+      "pelvis": -0.1,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.364462,
+      "upper": 64.8,
+      "pelvis": -0.2,
+      "curvature": 65.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.4169216,
+      "upper": 63.9,
+      "pelvis": 0.7,
+      "curvature": 63.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.4703379,
+      "upper": 64.7,
+      "pelvis": 0.1,
+      "curvature": 64.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.523809,
+      "upper": 64.8,
+      "pelvis": -0.0,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.5769715,
+      "upper": 64.4,
+      "pelvis": 0.1,
+      "curvature": 64.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.6303706,
+      "upper": 64.7,
+      "pelvis": -0.2,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.6836631,
+      "upper": 65.5,
+      "pelvis": -0.0,
+      "curvature": 65.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.7371178,
+      "upper": 64.8,
+      "pelvis": 0.1,
+      "curvature": 64.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.7934332,
+      "upper": 64.2,
+      "pelvis": 0.0,
+      "curvature": 64.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.8469684,
+      "upper": 65.2,
+      "pelvis": -0.1,
+      "curvature": 65.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.9002032,
+      "upper": 64.9,
+      "pelvis": -0.1,
+      "curvature": 65.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129223.953855,
+      "upper": 65.9,
+      "pelvis": -0.2,
+      "curvature": 66.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.0072036,
+      "upper": 64.7,
+      "pelvis": -0.3,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.060724,
+      "upper": 64.8,
+      "pelvis": -0.3,
+      "curvature": 65.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.1141872,
+      "upper": 64.2,
+      "pelvis": -0.1,
+      "curvature": 64.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.1671605,
+      "upper": 65.2,
+      "pelvis": 0.2,
+      "curvature": 65.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.2237992,
+      "upper": 65.2,
+      "pelvis": -0.3,
+      "curvature": 65.5,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.2769501,
+      "upper": 64.3,
+      "pelvis": 0.1,
+      "curvature": 64.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.33034,
+      "upper": 64.6,
+      "pelvis": -0.0,
+      "curvature": 64.6,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.383649,
+      "upper": 64.8,
+      "pelvis": 0.1,
+      "curvature": 64.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.4374657,
+      "upper": 64.7,
+      "pelvis": 2.0,
+      "curvature": 62.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.4903734,
+      "upper": 65.0,
+      "pelvis": -0.2,
+      "curvature": 65.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.5445244,
+      "upper": 64.6,
+      "pelvis": -0.1,
+      "curvature": 64.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.6004179,
+      "upper": 64.2,
+      "pelvis": -0.1,
+      "curvature": 64.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.654094,
+      "upper": 64.8,
+      "pelvis": -0.2,
+      "curvature": 65.0,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.7070808,
+      "upper": 67.3,
+      "pelvis": -0.1,
+      "curvature": 67.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.7605023,
+      "upper": 65.1,
+      "pelvis": -0.1,
+      "curvature": 65.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.8143578,
+      "upper": 64.7,
+      "pelvis": 0.3,
+      "curvature": 64.4,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.8672695,
+      "upper": 65.1,
+      "pelvis": 0.3,
+      "curvature": 64.8,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.920562,
+      "upper": 65.1,
+      "pelvis": 0.2,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129224.9742718,
+      "upper": 64.7,
+      "pelvis": -0.5,
+      "curvature": 65.2,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.0310662,
+      "upper": 65.9,
+      "pelvis": -0.4,
+      "curvature": 66.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.0840743,
+      "upper": 64.1,
+      "pelvis": -0.0,
+      "curvature": 64.1,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.1378672,
+      "upper": 64.4,
+      "pelvis": -0.4,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.190523,
+      "upper": 64.7,
+      "pelvis": -0.0,
+      "curvature": 64.7,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.2444959,
+      "upper": 65.0,
+      "pelvis": 0.0,
+      "curvature": 64.9,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    },
+    {
+      "timestamp": 1768129225.297903,
+      "upper": 63.5,
+      "pelvis": 0.2,
+      "curvature": 63.3,
+      "threshold": 35.0,
+      "led": "YELLOW"
+    }
+  ]
+}
